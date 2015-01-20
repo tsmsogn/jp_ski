@@ -1,7 +1,7 @@
 module JpSki
   # Ski
   class Ski
-    attr_accessor :name, :pref, :area, :top, :bottom
+    attr_accessor :name, :pref, :area, :postal_code, :address, :top, :bottom
 
     def self.build(args)
       ski = new
@@ -14,7 +14,8 @@ module JpSki
     def self.all
       Mapping.data.map do |ski|
         build(:name => ski[:name], :pref => ski[:pref],
-          :area => ski[:area], :top => ski[:top], :bottom => ski[:bottom])
+          :area => ski[:area], :postal_code => ski[:postal_code],
+          :address => ski[:address], :top => ski[:top], :bottom => ski[:bottom])
       end
     end
   end
