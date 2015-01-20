@@ -6,7 +6,8 @@ describe JpSki::Ski do
   describe 'with valid initialization' do
     let(:ski) do
       JpSki::Ski.build(:name => 'foo', :pref => 'bar', :area => 'baz',
-        :postal_code => 'qux', :address => 'quux', :top => 1000, :bottom => 900)
+        :postal_code => 'qux', :address => 'quux', :top => 1000, :bottom => 900,
+        :max_slope => 5000, :max_angle => 40)
     end
     subject { ski }
 
@@ -17,6 +18,8 @@ describe JpSki::Ski do
     it { is_expected.to respond_to(:address) }
     it { is_expected.to respond_to(:top) }
     it { is_expected.to respond_to(:bottom) }
+    it { is_expected.to respond_to(:max_slope) }
+    it { is_expected.to respond_to(:max_angle) }
     it { expect(ski.name).to eq 'foo' }
     it { expect(ski.pref).to eq 'bar' }
     it { expect(ski.area).to eq 'baz' }
@@ -24,6 +27,8 @@ describe JpSki::Ski do
     it { expect(ski.address).to eq 'quux' }
     it { expect(ski.top).to eq 1000 }
     it { expect(ski.bottom).to eq 900 }
+    it { expect(ski.max_slope).to eq 5000 }
+    it { expect(ski.max_angle).to eq 40 }
 
     describe '.all' do
       let(:skis) { JpSki::Ski.all }
@@ -36,6 +41,8 @@ describe JpSki::Ski do
       it { expect(skis[2].address).to eq '北海道北広島市仁別152' }
       it { expect(skis[2].top).to eq 275 }
       it { expect(skis[2].bottom).to eq 185 }
+      it { expect(skis[2].max_slope).to eq 670 }
+      it { expect(skis[2].max_angle).to eq 19 }
       it { expect(skis.count).to eq 563 }
     end
   end
