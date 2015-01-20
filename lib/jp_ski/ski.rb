@@ -3,17 +3,18 @@ module JpSki
   class Ski
     attr_accessor :name, :pref, :area
 
-    def self.build(name, pref, area)
+    def self.build(args)
       ski = new
-      ski.name = name
-      ski.pref = pref
-      ski.area = area
+      args.each do |k, v|
+        ski.instance_variable_set("@#{k}", v) unless v.nil?
+      end
       ski
     end
 
     def self.all
       Mapping.data.map do |ski|
-        build(ski[:name], ski[:pref], ski[:area])
+        build(:name => ski[:name], :pref => ski[:pref],
+          :area => ski[:area])
       end
     end
   end
