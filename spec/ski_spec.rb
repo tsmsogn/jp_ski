@@ -45,5 +45,59 @@ describe JpSki::Ski do
       it { expect(skis[2].max_angle).to eq 19 }
       it { expect(skis.count).to eq 563 }
     end
+
+    describe '.find' do
+      describe 'with valid args' do
+        describe 'when key is name' do
+          describe 'when found some skis' do
+            let(:skis) { JpSki::Ski.find(:name => 'm') }
+
+            it { expect(skis.first).to be_an_instance_of(JpSki::Ski) }
+            it { expect(skis.first.name).to eq 'manogamiスキー場' }
+            it { expect(skis.count).to eq 6 }
+          end
+
+          describe 'when found no ski' do
+            it { expect(JpSki::Ski.find(:name => 'foo')).to be_nil }
+          end
+        end
+
+        describe 'when key is pref' do
+          describe 'when found some skis' do
+            let(:hokkaido_skis) { JpSki::Ski.find(:pref => '北海道') }
+
+            it { expect(hokkaido_skis.first).to be_an_instance_of(JpSki::Ski) }
+            it { expect(hokkaido_skis.first.name).to eq '石狩平原スキー場' }
+            it { expect(hokkaido_skis.count).to eq 129 }
+          end
+
+          describe 'when found no ski' do
+            it { expect(JpSki::Ski.find(:pref => 'foo')).to be_nil }
+          end
+        end
+      end
+
+      describe 'with invalid args' do
+        describe 'non Hash' do
+          it { expect(JpSki::Ski.find(1)).to be_nil }
+        end
+
+        describe 'Hash having no keys' do
+          it { expect(JpSki::Ski.find({})).to be_nil }
+        end
+
+        describe 'Hash having some keys more than one' do
+          it { expect(JpSki::Ski.find(:foo => 1, :bar => 2)).to be_nil }
+        end
+      end
+    end
+
+    describe '.find_by_name' do
+      it { expect { JpSki::Ski.find_by_name('foo') }.to raise_error(NoMethodError) }
+    end
+
+    describe '.find_by_pref' do
+      it { expect { JpSki::Ski.find_by_pref('foo') }.to raise_error(NoMethodError) }
+    end
   end
 end

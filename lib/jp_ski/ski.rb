@@ -27,5 +27,40 @@ module JpSki
           :max_slope => ski[:max_slope], :max_angle => ski[:max_angle])
       end
     end
+
+    def self.find(args)
+      return nil unless args.class == Hash
+
+      key = args.keys[0]
+      val = args[key]
+
+      case key
+      when :name
+        return find_by_name(val)
+      when :pref
+        return find_by_pref(val)
+      end
+      nil
+    end
+
+    def self.find_by_name(name)
+      data = all.reject do |ski|
+        ski.name.downcase !~ /#{name.downcase}/
+      end
+
+      return data unless data.empty?
+      nil
+    end
+
+    def self.find_by_pref(pref)
+      data = all.reject do |ski|
+        ski.pref != pref
+      end
+
+      return data unless data.empty?
+      nil
+    end
+
+    private_class_method :find_by_name, :find_by_pref
   end
 end
