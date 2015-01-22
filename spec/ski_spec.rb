@@ -99,5 +99,27 @@ describe JpSki::Ski do
     describe '.find_by_pref' do
       it { expect { JpSki::Ski.find_by_pref('foo') }.to raise_error(NoMethodError) }
     end
+
+    describe '.canonicalize_operator' do
+      describe 'when valid args' do
+        describe 'when args is nil' do
+          it do
+            expect(JpSki::Ski.canonicalize_operator(nil)).to eq ['>=', 0]
+          end
+        end
+
+        describe 'when args is \'> 200\'' do
+          it { expect(JpSki::Ski.canonicalize_operator('> 200')).to eq ['>', 200] }
+        end
+      end
+
+      describe 'when invalid args' do
+        it do
+          expect do
+            JpSki::Ski.canonicalize_operator('foo')
+          end.to raise_error(ArgumentError)
+        end
+      end
+    end
   end
 end
