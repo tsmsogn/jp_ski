@@ -46,7 +46,7 @@
   :address:
   :top: 1100
   :bottom: 630
-  :max_slope:
+  :max_slope: 3600
   :max_angle: 30
 -
   :name: サッポロテイネ

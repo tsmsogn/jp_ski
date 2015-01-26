@@ -106,6 +106,21 @@ describe JpSki::Ski do
           end
         end
 
+        describe 'when key is max_slope' do
+          describe 'when arg is found some skis' do
+            let(:skis) { JpSki::Ski.find(:max_slope => '>= 3600') }
+            let(:s1) { JpSki::Ski.find(:name => 'ダイナスティスキーリゾート').first }
+            let(:s2) { JpSki::Ski.find(:name => '札幌国際スキー場').first }
+
+            it { expect(skis.find { |item| item.name == s1.name }).to be_nil }
+            it { expect(skis.find { |item| item.name == s2.name }).not_to be_nil }
+          end
+
+          describe 'when found no ski' do
+            it { expect(JpSki::Ski.find(:max_slope => '> 99999')).to be_nil }
+          end
+        end
+
         describe 'when key is max_angle' do
           describe 'when arg is found some skis' do
             let(:skis) { JpSki::Ski.find(:max_angle => '>= 30') }
@@ -151,6 +166,10 @@ describe JpSki::Ski do
 
     describe '.find_by_bottom' do
       it { expect { JpSki::Ski.find_by_bottom(['>=', 0]) }.to raise_error(NoMethodError) }
+    end
+
+    describe '.find_by_max_slope' do
+      it { expect { JpSki::Ski.find_by_max_slope(['>=', 0]) }.to raise_error(NoMethodError) }
     end
 
     describe '.find_by_max_angle' do
