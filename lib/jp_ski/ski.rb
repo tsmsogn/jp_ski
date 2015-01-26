@@ -46,7 +46,7 @@ module JpSki
       when :max_slope
         return find_by_max_slope(canonicalize_comparison(val))
       when :max_angle
-        return find_by_max_angle(canonicalize_comparison(val)) 
+        return find_by_max_angle(canonicalize_comparison(val))
       end
       nil
     end
