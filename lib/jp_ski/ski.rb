@@ -77,7 +77,7 @@ module JpSki
         if ski.top.nil?
           true
         else
-          !ski.top.public_send comparable, value
+          !ski.top.send comparable, value
         end
       end
 
@@ -93,7 +93,7 @@ module JpSki
         if ski.bottom.nil?
           true
         else
-          !ski.bottom.public_send comparable, value
+          !ski.bottom.send comparable, value
         end
       end
 
@@ -109,7 +109,7 @@ module JpSki
         if ski.max_slope.nil?
           true
         else
-          !ski.max_slope.public_send comparable, value
+          !ski.max_slope.send comparable, value
         end
       end
 
@@ -125,7 +125,7 @@ module JpSki
         if ski.max_angle.nil?
           true
         else
-          !ski.max_angle.public_send comparable, value
+          !ski.max_angle.send comparable, value
         end
       end
 
