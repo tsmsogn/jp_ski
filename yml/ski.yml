@@ -47,7 +47,7 @@
   :top: 1100
   :bottom: 630
   :max_slope:
-  :max_angle:
+  :max_angle: 30
 -
   :name: サッポロテイネ
   :pref: 北海道
