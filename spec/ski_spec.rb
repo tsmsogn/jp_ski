@@ -11,6 +11,7 @@ describe JpSki::Ski do
     end
     subject { ski }
 
+    it { is_expected.to respond_to(:uuid) }
     it { is_expected.to respond_to(:name) }
     it { is_expected.to respond_to(:pref) }
     it { is_expected.to respond_to(:area) }
@@ -34,6 +35,7 @@ describe JpSki::Ski do
       let(:skis) { JpSki::Ski.all }
 
       it { expect(skis[2]).to be_an_instance_of(JpSki::Ski) }
+      it { expect(skis[2].uuid).to eq '5e1e4fe3-2dba-49ce-87a3-7fc32dd561de' }
       it { expect(skis[2].name).to eq 'ダイナスティスキーリゾート' }
       it { expect(skis[2].pref).to eq '北海道' }
       it { expect(skis[2].area).to eq '北海道' }
