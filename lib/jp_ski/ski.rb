@@ -100,8 +100,8 @@ module JpSki
     def self.canonicalize_comparison(operator)
       return ['>=', 0] if operator.nil?
       fail ArgumentError unless operator =~ /^(<(?:=)?|==|>(?:=)?)\s+(\d+)$/
-      operator, value = Regexp.last_match[1], Regexp.last_match[2]
-      [operator, value.to_i]
+      comparable, value = Regexp.last_match[1], Regexp.last_match[2]
+      [comparable, value.to_i]
     end
 
     private_class_method :find_by_name, :find_by_pref, :find_by_top, :find_by_bottom
