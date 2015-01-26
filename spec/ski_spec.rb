@@ -75,6 +75,36 @@ describe JpSki::Ski do
             it { expect(JpSki::Ski.find(:pref => 'foo')).to be_nil }
           end
         end
+
+        describe 'when key is top' do
+          describe 'when arg is found some skis' do
+            let(:skis) { JpSki::Ski.find(:top => '>= 1100') }
+            let(:s1) { JpSki::Ski.find(:name => 'ダイナスティスキーリゾート').first }
+            let(:s2) { JpSki::Ski.find(:name => '札幌国際スキー場').first }
+
+            it { expect(skis.find { |item| item.name == s1.name }).to be_nil }
+            it { expect(skis.find { |item| item.name == s2.name }).not_to be_nil }
+          end
+
+          describe 'when found no ski' do
+            it { expect(JpSki::Ski.find(:top => '> 9999')).to be_nil }
+          end
+        end
+
+        describe 'when key is bottom' do
+          describe 'when arg is found some skis' do
+            let(:skis) { JpSki::Ski.find(:bottom => '>= 630') }
+            let(:s1) { JpSki::Ski.find(:name => 'ダイナスティスキーリゾート').first }
+            let(:s2) { JpSki::Ski.find(:name => '札幌国際スキー場').first }
+
+            it { expect(skis.find { |item| item.name == s1.name }).to be_nil }
+            it { expect(skis.find { |item| item.name == s2.name }).not_to be_nil }
+          end
+
+          describe 'when found no ski' do
+            it { expect(JpSki::Ski.find(:bottom => '> 9999')).to be_nil }
+          end
+        end
       end
 
       describe 'with invalid args' do
@@ -98,6 +128,14 @@ describe JpSki::Ski do
 
     describe '.find_by_pref' do
       it { expect { JpSki::Ski.find_by_pref('foo') }.to raise_error(NoMethodError) }
+    end
+
+    describe '.find_by_top' do
+      it { expect { JpSki::Ski.find_by_top(['>=', 0]) }.to raise_error(NoMethodError) }
+    end
+
+    describe '.find_by_bottom' do
+      it { expect { JpSki::Ski.find_by_bottom(['>=', 0]) }.to raise_error(NoMethodError) }
     end
 
     describe '.canonicalize_comparison' do
