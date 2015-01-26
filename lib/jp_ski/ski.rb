@@ -52,8 +52,8 @@ module JpSki
     end
 
     def self.find_by_name(name)
-      data = all.reject do |ski|
-        ski.name.downcase !~ /#{name.downcase}/
+      data = all.select do |ski|
+        !(ski.name.downcase !~ /#{name.downcase}/)
       end
 
       return data unless data.empty?
@@ -61,8 +61,8 @@ module JpSki
     end
 
     def self.find_by_pref(pref)
-      data = all.reject do |ski|
-        ski.pref != pref
+      data = all.select do |ski|
+        ski.pref == pref
       end
 
       return data unless data.empty?
@@ -73,11 +73,11 @@ module JpSki
       comparable = comparison[0]
       value = comparison[1]
 
-      data = all.reject do |ski|
+      data = all.select do |ski|
         if ski.top.nil?
-          true
+          false
         else
-          !ski.top.send comparable, value
+          ski.top.send comparable, value
         end
       end
 
@@ -89,11 +89,11 @@ module JpSki
       comparable = comparison[0]
       value = comparison[1]
 
-      data = all.reject do |ski|
+      data = all.select do |ski|
         if ski.bottom.nil?
-          true
+          false
         else
-          !ski.bottom.send comparable, value
+          ski.bottom.send comparable, value
         end
       end
 
@@ -105,11 +105,11 @@ module JpSki
       comparable = comparison[0]
       value = comparison[1]
 
-      data = all.reject do |ski|
+      data = all.select do |ski|
         if ski.max_slope.nil?
-          true
+          false
         else
-          !ski.max_slope.send comparable, value
+          ski.max_slope.send comparable, value
         end
       end
 
@@ -121,11 +121,11 @@ module JpSki
       comparable = comparison[0]
       value = comparison[1]
 
-      data = all.reject do |ski|
+      data = all.select do |ski|
         if ski.max_angle.nil?
-          true
+          false
         else
-          !ski.max_angle.send comparable, value
+          ski.max_angle.send comparable, value
         end
       end
 
