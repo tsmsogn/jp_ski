@@ -135,7 +135,7 @@ module JpSki
 
     def self.canonicalize_comparison(operator)
       return ['>=', 0] if operator.nil?
-      fail ArgumentError unless operator =~ /^(<(?:=)?|==|>(?:=)?)\s+(\d+)$/
+      fail ArgumentError unless operator =~ /^(==|(?:<|>)=?)\s+(\d+)$/
       comparable, value = Regexp.last_match[1], Regexp.last_match[2]
       [comparable, value.to_i]
     end
