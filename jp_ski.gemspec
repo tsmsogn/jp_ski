@@ -6,7 +6,7 @@ require 'jp_ski/version'
 Gem::Specification.new do |spec|
   spec.name          = "jp_ski"
   spec.version       = JpSki::VERSION
-  spec.authors       = ["Toshimasa Oguni"]
+  spec.authors       = ["tsmsogn"]
   spec.email         = ["tsmsogn@gmail.com"]
   spec.summary       = %q{Japan ski area.}
   spec.description   = %q{Japan ski area.}
