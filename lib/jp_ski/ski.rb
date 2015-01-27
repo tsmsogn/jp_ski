@@ -36,6 +36,8 @@ module JpSki
       val = args[key]
 
       case key
+      when :uuid
+        return find_by_uuid(val)
       when :name
         return find_by_name(val)
       when :pref
@@ -48,6 +50,13 @@ module JpSki
         return find_by_max_slope(canonicalize_comparison(val))
       when :max_angle
         return find_by_max_angle(canonicalize_comparison(val))
+      end
+      nil
+    end
+
+    def self.find_by_uuid(uuid)
+      all.each do |ski|
+        return ski if ski.uuid == uuid
       end
       nil
     end
@@ -141,6 +150,6 @@ module JpSki
       [comparable, value.to_i]
     end
 
-    private_class_method :find_by_name, :find_by_pref, :find_by_top, :find_by_bottom, :find_by_max_slope, :find_by_max_angle
+    private_class_method :find_by_uuid, :find_by_name, :find_by_pref, :find_by_top, :find_by_bottom, :find_by_max_slope, :find_by_max_angle
   end
 end

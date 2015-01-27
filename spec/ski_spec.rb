@@ -50,6 +50,17 @@ describe JpSki::Ski do
 
     describe '.find' do
       describe 'with valid args' do
+        describe 'when key is uuid' do
+          let(:s1) { JpSki::Ski.find(:uuid => '5e1e4fe3-2dba-49ce-87a3-7fc32dd561de') }
+
+          it { expect(s1).to be_an_instance_of(JpSki::Ski) }
+          it { expect(s1.name).to eq 'ダイナスティスキーリゾート' }
+
+          describe 'when found no ski' do
+            it { expect(JpSki::Ski.find(:uud => '')).to be_nil }
+          end
+        end
+
         describe 'when key is name' do
           describe 'when found some skis' do
             let(:skis) { JpSki::Ski.find(:name => 'm') }
@@ -152,6 +163,10 @@ describe JpSki::Ski do
           it { expect(JpSki::Ski.find(:foo => 1, :bar => 2)).to be_nil }
         end
       end
+    end
+
+    describe '.find_by_uuid' do
+      it { expect { JpSki::Ski.find_by_uuid('foo') }.to raise_error(NoMethodError) }
     end
 
     describe '.find_by_name' do
