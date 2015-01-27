@@ -45,7 +45,7 @@ describe JpSki::Ski do
       it { expect(skis[2].bottom).to eq 185 }
       it { expect(skis[2].max_slope).to eq 670 }
       it { expect(skis[2].max_angle).to eq 19 }
-      it { expect(skis.count).to eq 563 }
+      it { expect(skis.count).to eq 558 }
     end
 
     describe '.find' do
@@ -78,7 +78,7 @@ describe JpSki::Ski do
 
           it { expect(hokkaido_skis.first).to be_an_instance_of(JpSki::Ski) }
           it { expect(hokkaido_skis.first.name).to eq '石狩平原スキー場' }
-          it { expect(hokkaido_skis.count).to eq 129 }
+          it { expect(hokkaido_skis.count).to eq 124 }
 
           describe 'when found no ski' do
             it { expect(JpSki::Ski.find(:pref => 'foo')).to be_nil }
