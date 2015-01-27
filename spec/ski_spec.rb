@@ -62,13 +62,11 @@ describe JpSki::Ski do
         end
 
         describe 'when key is name' do
-          describe 'when found some skis' do
-            let(:skis) { JpSki::Ski.find(:name => 'm') }
+          let(:skis) { JpSki::Ski.find(:name => 'm') }
 
-            it { expect(skis.first).to be_an_instance_of(JpSki::Ski) }
-            it { expect(skis.first.name).to eq 'manogamiスキー場' }
-            it { expect(skis.count).to eq 6 }
-          end
+          it { expect(skis.first).to be_an_instance_of(JpSki::Ski) }
+          it { expect(skis.first.name).to eq 'manogamiスキー場' }
+          it { expect(skis.count).to eq 6 }
 
           describe 'when found no ski' do
             it { expect(JpSki::Ski.find(:name => 'foo')).to be_nil }
@@ -76,13 +74,11 @@ describe JpSki::Ski do
         end
 
         describe 'when key is pref' do
-          describe 'when found some skis' do
-            let(:hokkaido_skis) { JpSki::Ski.find(:pref => '北海道') }
+          let(:hokkaido_skis) { JpSki::Ski.find(:pref => '北海道') }
 
-            it { expect(hokkaido_skis.first).to be_an_instance_of(JpSki::Ski) }
-            it { expect(hokkaido_skis.first.name).to eq '石狩平原スキー場' }
-            it { expect(hokkaido_skis.count).to eq 129 }
-          end
+          it { expect(hokkaido_skis.first).to be_an_instance_of(JpSki::Ski) }
+          it { expect(hokkaido_skis.first.name).to eq '石狩平原スキー場' }
+          it { expect(hokkaido_skis.count).to eq 129 }
 
           describe 'when found no ski' do
             it { expect(JpSki::Ski.find(:pref => 'foo')).to be_nil }
@@ -90,14 +86,12 @@ describe JpSki::Ski do
         end
 
         describe 'when key is top' do
-          describe 'when arg is found some skis' do
-            let(:skis) { JpSki::Ski.find(:top => '>= 1100') }
-            let(:s1) { JpSki::Ski.find(:name => 'ダイナスティスキーリゾート').first }
-            let(:s2) { JpSki::Ski.find(:name => '札幌国際スキー場').first }
+          let(:skis) { JpSki::Ski.find(:top => '>= 1100') }
+          let(:s1) { JpSki::Ski.find(:name => 'ダイナスティスキーリゾート').first }
+          let(:s2) { JpSki::Ski.find(:name => '札幌国際スキー場').first }
 
-            it { expect(skis.find { |item| item.name == s1.name }).to be_nil }
-            it { expect(skis.find { |item| item.name == s2.name }).not_to be_nil }
-          end
+          it { expect(skis.find { |item| item.name == s1.name }).to be_nil }
+          it { expect(skis.find { |item| item.name == s2.name }).not_to be_nil }
 
           describe 'when found no ski' do
             it { expect(JpSki::Ski.find(:top => '> 9999')).to be_nil }
@@ -105,14 +99,12 @@ describe JpSki::Ski do
         end
 
         describe 'when key is bottom' do
-          describe 'when arg is found some skis' do
-            let(:skis) { JpSki::Ski.find(:bottom => '>= 630') }
-            let(:s1) { JpSki::Ski.find(:name => 'ダイナスティスキーリゾート').first }
-            let(:s2) { JpSki::Ski.find(:name => '札幌国際スキー場').first }
+          let(:skis) { JpSki::Ski.find(:bottom => '>= 630') }
+          let(:s1) { JpSki::Ski.find(:name => 'ダイナスティスキーリゾート').first }
+          let(:s2) { JpSki::Ski.find(:name => '札幌国際スキー場').first }
 
-            it { expect(skis.find { |item| item.name == s1.name }).to be_nil }
-            it { expect(skis.find { |item| item.name == s2.name }).not_to be_nil }
-          end
+          it { expect(skis.find { |item| item.name == s1.name }).to be_nil }
+          it { expect(skis.find { |item| item.name == s2.name }).not_to be_nil }
 
           describe 'when found no ski' do
             it { expect(JpSki::Ski.find(:bottom => '> 9999')).to be_nil }
@@ -120,14 +112,12 @@ describe JpSki::Ski do
         end
 
         describe 'when key is max_slope' do
-          describe 'when arg is found some skis' do
-            let(:skis) { JpSki::Ski.find(:max_slope => '>= 3600') }
-            let(:s1) { JpSki::Ski.find(:name => 'ダイナスティスキーリゾート').first }
-            let(:s2) { JpSki::Ski.find(:name => '札幌国際スキー場').first }
+          let(:skis) { JpSki::Ski.find(:max_slope => '>= 3600') }
+          let(:s1) { JpSki::Ski.find(:name => 'ダイナスティスキーリゾート').first }
+          let(:s2) { JpSki::Ski.find(:name => '札幌国際スキー場').first }
 
-            it { expect(skis.find { |item| item.name == s1.name }).to be_nil }
-            it { expect(skis.find { |item| item.name == s2.name }).not_to be_nil }
-          end
+          it { expect(skis.find { |item| item.name == s1.name }).to be_nil }
+          it { expect(skis.find { |item| item.name == s2.name }).not_to be_nil }
 
           describe 'when found no ski' do
             it { expect(JpSki::Ski.find(:max_slope => '> 99999')).to be_nil }
@@ -135,14 +125,12 @@ describe JpSki::Ski do
         end
 
         describe 'when key is max_angle' do
-          describe 'when arg is found some skis' do
-            let(:skis) { JpSki::Ski.find(:max_angle => '>= 30') }
-            let(:s1) { JpSki::Ski.find(:name => 'ダイナスティスキーリゾート').first }
-            let(:s2) { JpSki::Ski.find(:name => '札幌国際スキー場').first }
+          let(:skis) { JpSki::Ski.find(:max_angle => '>= 30') }
+          let(:s1) { JpSki::Ski.find(:name => 'ダイナスティスキーリゾート').first }
+          let(:s2) { JpSki::Ski.find(:name => '札幌国際スキー場').first }
 
-            it { expect(skis.find { |item| item.name == s1.name }).to be_nil }
-            it { expect(skis.find { |item| item.name == s2.name }).not_to be_nil }
-          end
+          it { expect(skis.find { |item| item.name == s1.name }).to be_nil }
+          it { expect(skis.find { |item| item.name == s2.name }).not_to be_nil }
 
           describe 'when found no ski' do
             it { expect(JpSki::Ski.find(:max_angle => '> 90')).to be_nil }
