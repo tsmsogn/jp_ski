@@ -1,7 +1,8 @@
 module JpSki
   # Ski
   class Ski
-    attr_accessor :name,
+    attr_accessor :uuid,
+                  :name,
                   :pref,
                   :area,
                   :postal_code,
@@ -21,7 +22,7 @@ module JpSki
 
     def self.all
       Mapping.data.map do |ski|
-        build(:name => ski[:name], :pref => ski[:pref],
+        build(:uuid => ski[:uuid], :name => ski[:name], :pref => ski[:pref],
           :area => ski[:area], :postal_code => ski[:postal_code],
           :address => ski[:address], :top => ski[:top], :bottom => ski[:bottom],
           :max_slope => ski[:max_slope], :max_angle => ski[:max_angle])
