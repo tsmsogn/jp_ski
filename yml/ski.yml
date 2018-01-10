@@ -599,135 +599,80 @@
   :postal_code: '0861731'
   :address: 北海道標津郡標津町字古多糠
 -
-  :name: 鯵ヶ沢大高山スキー場
-  :pref: 青森県
-  :postal_code:
-  :address:
--
-  :name: アップルヒルスキー場
-  :pref: 青森県
-  :postal_code:
-  :address:
--
-  :name: 板ノ沢スキー場
-  :pref: 青森県
-  :postal_code:
-  :address:
--
   :name: 岩木山百沢スキー場
   :pref: 青森県
-  :postal_code:
-  :address:
--
-  :name: 岩木山スカイラインスキー場
-  :pref: 青森県
-  :postal_code:
-  :address:
--
-  :name: 今別スキー場
-  :pref: 青森県
-  :postal_code:
-  :address:
+  :postal_code: '0361343'
+  :address: 青森県弘前市百沢字東岩木山国有林32林班
 -
   :name: 大鰐温泉スキー場
   :pref: 青森県
-  :postal_code:
-  :address:
--
-  :name: 於法岳スキー場
-  :pref: 青森県
-  :postal_code:
-  :address:
+  :postal_code: '0380221'
+  :address: 青森県南津軽郡大鰐町虹貝清川48-1
 -
   :name: 金ヶ沢スキー場
   :pref: 青森県
-  :postal_code:
-  :address:
+  :postal_code: '0391801'
+  :address: 青森県三戸郡新郷村戸来
 -
   :name: 釜臥山スキー場
   :pref: 青森県
-  :postal_code:
-  :address:
+  :postal_code: '0350096'
+  :address: 青森県むつ市大湊大川守44-5
 -
-  :name: 黒石市青少年の森スキー場
+  :name: 嘉瀬スキー場
   :pref: 青森県
-  :postal_code:
-  :address:
--
-  :name: 五所川原市嘉瀬スキー場
-  :pref: 青森県
-  :postal_code:
-  :address:
+  :postal_code: '0370204'
+  :address: 青森県五所川原市金木町嘉瀬上端山崎115-3
 -
   :name: 七戸町営スキー場
   :pref: 青森県
-  :postal_code:
-  :address:
+  :postal_code: '0392568'
+  :address: 青森県上北郡七戸町左組106-5
 -
   :name: 創遊村229スキーランド
   :pref: 青森県
-  :postal_code:
-  :address:
+  :postal_code: '0390201'
+  :address: 青森県三戸郡田子町田子川代ノ上ミ66-39
 -
   :name: そうまロマントピアスキー場
   :pref: 青森県
-  :postal_code:
-  :address:
+  :postal_code: '0361505'
+  :address: 青森県弘前市水木在家桜井44
 -
-  :name: 外ヶ浜町蟹田スキー場
+  :name: 町営蟹田スキー場
   :pref: 青森県
-  :postal_code:
-  :address:
+  :postal_code: '0301303'
+  :address: 青森県東津軽郡外ヶ浜町蟹田丑ヶ沢14-1
 -
   :name: 高長根ファミリースキー場
   :pref: 青森県
-  :postal_code:
-  :address:
--
-  :name: 東目屋スキー場
-  :pref: 青森県
-  :postal_code:
-  :address:
+  :postal_code: '0368302'
+  :address: 青森県弘前市大字高杉字神原282-72
 -
   :name: 十和田湖温泉スキー場
   :pref: 青森県
-  :postal_code:
-  :address:
+  :postal_code: '0340303'
+  :address: 青森県十和田市法量焼山64-122
 -
-  :name: 東奥スキー場
+  :name: 宮野沢スキー場
   :pref: 青森県
-  :postal_code:
-  :address:
--
-  :name: 段々畑スキー場
-  :pref: 青森県
-  :postal_code:
-  :address:
--
-  :name: 中泊町営宮野沢スキー場
-  :pref: 青森県
-  :postal_code:
-  :address:
+  :postal_code: '0370307'
+  :address: 青森県北津軽郡中泊町宮野沢浦島97-65
 -
   :name: ナクア白神スキーリゾート
   :pref: 青森県
-  :postal_code:
-  :address:
+  :postal_code: '0382793'
+  :address: 青森県西津軽郡鯵ヶ沢町鯵ヶ沢高原
 -
   :name: 野辺地まかど温泉スキー場
   :pref: 青森県
-  :postal_code:
-  :address:
--
-  :name: 階上町野沢スキー場
-  :pref: 青森県
-  :postal_code:
-  :address:
+  :postal_code: '0393175'
+  :address: 青森県上北郡野辺地町地続山1-1
 -
   :name: 八甲田スキー場
   :pref: 青森県
-  :postal_code:
-  :address:
+  :postal_code: '0300188'
+  :address: 青森県青森市荒川寒水沢1-12
 -
   :name: manogamiスキー場
   :pref: 青森県
