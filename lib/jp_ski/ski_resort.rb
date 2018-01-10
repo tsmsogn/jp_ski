@@ -6,8 +6,8 @@ module JpSki
   class SkiResort
     include AttrRequired, AttrOptional
 
-    attr_required :name
-    attr_optional :pref,
+    attr_required :name,
+                  :pref,
                   :postal_code,
                   :address
 
