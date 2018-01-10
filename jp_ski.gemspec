@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = JpSki::VERSION
   spec.authors       = ["tsmsogn"]
   spec.email         = ["tsmsogn@gmail.com"]
-  spec.summary       = %q{Japan ski area.}
-  spec.description   = %q{Japan ski area.}
-  spec.homepage      = ""
+  spec.summary       = %q{JpSki is utils for Japan ski resorts.}
+  spec.description   = %q{JpSki is utils for Japan ski resorts.}
+  spec.homepage      = "https://github.com/tsmsogn/jp_ski"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
@@ -18,6 +18,7 @@ Gem::Specification.new do |spec|
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ["lib"]
 
+  spec.add_dependency "attr_required", "1.0.1"
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec"
