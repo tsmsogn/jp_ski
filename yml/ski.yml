@@ -289,11 +289,6 @@
   :postal_code: '0708017'
   :address: 北海道旭川市神居7条18丁目
 -
-  :name: 音威子府クロスカントリーコース
-  :pref: 北海道
-  :postal_code:
-  :address:
--
   :name: 音威富士スキー場
   :pref: 北海道
   :postal_code: '0982501'
@@ -364,20 +359,10 @@
   :postal_code: '0781701'
   :address: 北海道上川郡上川町字層雲峡
 -
-  :name: チセネシリクロスカントリーコース
-  :pref: 北海道
-  :postal_code:
-  :address:
--
   :name: 当麻町営スキー場
   :pref: 北海道
   :postal_code: '0781316'
   :address: 北海道上川郡当麻町6条東3丁目1−17
--
-  :name: 富沢クロスカントリーコース
-  :pref: 北海道
-  :postal_code:
-  :address:
 -
   :name: 中川町民スキー場
   :pref: 北海道
@@ -388,11 +373,6 @@
   :pref: 北海道
   :postal_code: '0710714'
   :address: 北海道空知郡中富良野町宮町1-11
--
-  :name: なよろ健康の森クロスカントリーコース
-  :pref: 北海道
-  :postal_code:
-  :address:
 -
   :name: 名寄ピヤシリスキー場
   :pref: 北海道
@@ -1199,10 +1179,10 @@
   :postal_code:
   :address:
 -
-  :name: 尾瀬檜枝岐クロスカントリースキーコース
+  :name: 尾瀬檜枝岐温泉スキー場
   :pref: 福島県
-  :postal_code:
-  :address:
+  :postal_code: '9670527'
+  :address: 福島県南会津郡檜枝岐村字見通1150
 -
   :name: 只見スキー場
   :pref: 福島県
@@ -1255,11 +1235,6 @@
   :address:
 -
   :name: 日光湯元スキー場
-  :pref: 栃木県
-  :postal_code:
-  :address:
--
-  :name: 光徳クロスカントリースキー場
   :pref: 栃木県
   :postal_code:
   :address:
@@ -1794,11 +1769,6 @@
   :postal_code:
   :address:
 -
-  :name: 白馬クロスカントリー競技場
-  :pref: 長野県
-  :postal_code:
-  :address:
--
   :name: 白馬五竜スキー場
   :pref: 長野県
   :postal_code:
@@ -1879,11 +1849,6 @@
   :postal_code:
   :address:
 -
-  :name: 欠ノ上クロスカントリーハウス
-  :pref: 新潟県
-  :postal_code:
-  :address:
--
   :name: 神立高原スキー場
   :pref: 新潟県
   :postal_code:
@@ -1945,11 +1910,6 @@
   :address:
 -
   :name: 十日町市民スキー場
-  :pref: 新潟県
-  :postal_code:
-  :address:
--
-  :name: 十日町市吉田クロスカントリー競技場
   :pref: 新潟県
   :postal_code:
   :address:
@@ -2214,11 +2174,6 @@
   :postal_code:
   :address:
 -
-  :name: 西山クロスカントリースキー場
-  :pref: 石川県
-  :postal_code:
-  :address:
--
   :name: 白山一里野温泉スキー場
   :pref: 石川県
   :postal_code:
@@ -2240,11 +2195,6 @@
   :address:
 -
   :name: 莇生田スキー場
-  :pref: 福井県
-  :postal_code:
-  :address:
--
-  :name: IZUMIクロスカントリースキー場
   :pref: 福井県
   :postal_code:
   :address:
