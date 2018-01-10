@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/tsmsogn/jp_ski.svg?branch=master)](https://travis-ci.org/tsmsogn/jp_ski)
 
-JpSki is utils for Japanese ski resort.
+JpSki is utils for Japan ski resort.
 
 ## Installation
 
