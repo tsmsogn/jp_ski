@@ -1,6138 +1,2790 @@
 -
-  :uuid: 81f5bc66-2fca-4beb-b74b-b851b0067c71
   :name: 石狩平原スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0610208'
   :address: 北海道石狩郡当別町弁華別
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d1629f3a-9084-4274-9f40-fd41de62c37b
   :name: 恵庭市民スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0611422'
   :address: 北海道恵庭市盤尻330-2
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5e1e4fe3-2dba-49ce-87a3-7fc32dd561de
   :name: ダイナスティスキーリゾート
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0611267'
   :address: 北海道北広島市仁別152
-  :top: 275
-  :bottom: 185
-  :max_slope: 670
-  :max_angle: 19
 -
-  :uuid: c20f4b10-b8cf-4f0b-b0fb-46188fcde456
   :name: 北広島クラッセホテルスノーパーク
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0611101'
   :address: 北海道北広島市中の沢 316-1
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0ee0caf8-649e-440a-a0a5-e852feb956f8
   :name: 札幌国際スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0612301'
   :address: 北海道札幌市南区定山渓937
-  :top: 1100
-  :bottom: 630
-  :max_slope: 3600
-  :max_angle: 30
 -
-  :uuid: b3cb3777-2348-414c-8128-44a35c4036f7
   :name: サッポロテイネ
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0060029'
   :address: 北海道札幌市手稲区手稲本町593
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: eb26fd91-b50b-4d50-8ae6-29e363e81916
   :name: さっぽろばんけいスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0640945'
   :address: 北海道札幌市中央区盤渓410
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 37409619-a509-4fb4-a174-c8f6d9f2b7f1
   :name: 札幌藻岩山スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0050040'
   :address: 北海道札幌市南区藻岩下1991
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 93a8cdfd-2246-44e6-b6f9-8f67520cf83a
   :name: 白旗山競技場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0040839'
   :address: 北海道札幌市清田区真栄502
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 66f0a41f-dca1-4e34-9452-bc6279d11c79
   :name: 滝野スノーワールド
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0050862'
   :address: 北海道札幌市南区滝野247
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3fe72302-831e-458c-9cd8-ead98bb643ef
   :name: フッズスノーエリア
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0612271'
   :address: 北海道札幌市南区藤野473-1
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 176321cb-4207-456d-b4ba-06bd4c977d44
   :name: 岩見沢萩の山市民スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0680836'
   :address: 北海道岩見沢市上志文町452
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f91fe3fd-ba1a-4c9f-b146-e5f758aeb9bf
   :name: 桂沢国設スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0682102'
   :address: 北海道三笠市西桂沢
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: df3a7d4e-7ca9-4d42-8ba9-9e036fe43b11
   :name: かもい岳国際スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0730404'
   :address: 北海道歌志内市歌神95-9
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 1e3eff87-5842-43d5-bec5-56b03d929185
   :name: 栗山町スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0691501'
   :address: 北海道夕張郡栗山町桜丘1丁目97-2
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b0a262f2-a88a-4c57-b991-0bd9ad8e29d6
   :name: 国設芦別スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0750036'
   :address: 北海道芦別市旭町11
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a30292af-aa93-4bd3-82a4-0051ae1d68a1
   :name: 新十津川町そっち岳スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0731106'
   :address: 北海道樺戸郡新十津川町字総進294-1
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 788b8b14-f2ed-441a-8642-04e3ce02fc5c
   :name: 長沼スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0691317'
   :address: 北海道夕張郡長沼町東6線北12
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 783c7488-43e7-4db3-a175-da2f1bb6448e
   :name: 沼田町高穂スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0782214'
   :address: 北海道雨竜郡沼田町字高穂325
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 07920e10-236f-49a5-bd87-033c278fca8b
   :name: 美唄国設スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0720000'
   :address: 北海道美唄市東美唄町番町
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ce4a7094-6f18-44b1-a741-4c24018bb107
   :name: 幌立スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0740415'
   :address: 北海道雨竜郡幌加内町字長留内
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b0892854-87f1-4092-9274-dffc3fb24c29
   :name: 北海道グリーンランドホワイトパーク
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0680833'
   :address: 北海道岩見沢市志文町1056
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c6d64994-df1a-4bf2-8a8f-390585c37b4d
   :name: マウントレースイ
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0680411'
   :address: 北海道夕張市末広2-4
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a1908b6c-d5a1-46f1-aac0-4064a87f6a37
   :name: 朝里川温泉スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0470154'
   :address: 北海道小樽市朝里川温泉1丁目394
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: da166d99-0c64-499e-b95e-1fae5d1396c3
   :name: 小樽天狗山スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0470023'
   :address: 北海道小樽市最上2丁目16-15
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 54dd9d80-e2be-4886-80c1-06405dccd7b4
   :name: キロロスノーワールド
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0460571'
   :address: 北海道余市郡赤井川村常盤650
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 94fabd5a-6030-4177-8363-88a9a2489381
   :name: 倶知安町旭ヶ丘スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0440083'
   :address: 北海道虻田郡倶知安町字旭
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 984f00e4-a7cf-4bfa-958c-aaeec8f80137
   :name: 積丹町野外スポーツ林スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0460201'
   :address: 北海道積丹郡積丹町美国町字美良波195
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 44592e17-3389-48cf-835b-74b6cae8af24
   :name: スノークルーズ・オーンズ
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0470265'
   :address: 北海道小樽市春香町357
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a210df38-aac8-427f-b283-fc806799f8d5
   :name: 中山峠スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7ef59ba8-6cc4-41f3-9aaa-fec979d41ea1
   :name: 仁木町民スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0482402'
   :address: 北海道余市郡仁木町大江1丁目87−4
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f0918561-2c2c-4953-9a3b-c4725ab2952b
   :name: ニセコアンヌプリ国際スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0481592'
   :address: 北海道虻田郡ニセコ町東山温泉
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ecc16d30-fb52-4890-9479-3276d0ba891d
   :name: ニセコいわない国際スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0450024'
   :address: 北海道岩内郡岩内町野束350
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 57602537-4008-474f-a575-a6909b2bd62c
   :name: ニセコビレッジスキーリゾート
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0481592'
   :address: 北海道虻田郡ニセコ町東山温泉
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f7527266-e118-49be-a9a9-78c670535e06
   :name: ニセコマウンテンリゾート グラン・ヒラフ
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0440081'
   :address: 北海道虻田郡倶知安町山田204
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 72fa3a28-0984-47e2-911c-f771774ecacc
   :name: ニセコモイワスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0481511'
   :address: 北海道虻田郡ニセコ町ニセコ448
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 34582bc8-29ec-41a1-8c56-0df6032dbbd3
   :name: ニセコワイス雪上車スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0440084'
   :address: 北海道虻田郡倶知安町花園
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3fafd906-86d2-4fd6-ade8-7061e6d65ec4
   :name: 蘭越町チセヌプリスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0481321'
   :address: 北海道磯谷郡蘭越町字湯里680
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 436f5643-2a2d-4803-ba87-67e6dd3b2260
   :name: ルスツリゾート
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0481711'
   :address: 北海道虻田郡留寿都村泉川13
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 38666359-d443-4c1a-b06a-b77b39040a01
   :name: グリーンピア大沼スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0492142'
   :address: 北海道茅部郡森町赤井川229
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5337d542-491e-4464-ab65-6782ec84e762
   :name: ニヤマ高原スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0411101'
   :address: 北海道亀田郡七飯町仁山670
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d6275c15-3f74-43c1-b54e-c179336feab5
   :name: 函館七飯スノーパーク
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0411351'
   :address: 北海道亀田郡七飯町東大沼666
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a602ee0c-d378-4c93-86f8-7a491fc8f823
   :name: ふるさとの森スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0490431'
   :address: 北海道上磯郡木古内町字木古内
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f9315524-be1c-4f13-97c7-1f8d6102e89d
   :name: 八雲町営スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0493127'
   :address: 北海道二海郡八雲町春日767
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 14c2f5a9-a06f-402b-96ee-9cc9a99cf232
   :name: 今金町ピリカスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0494151'
   :address: 北海道瀬棚郡今金町字美利河205-1
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d3ef7c93-aaf1-46cf-9ce2-6ce343adb01b
   :name: 今金町種川スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0494324'
   :address: 北海道瀬棚郡今金町字種川
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 530533b4-3d2d-4c1b-bb7a-f1960dd06952
   :name: 太鼓山スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0431104'
   :address: 北海道檜山郡厚沢部町上里368-2
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 02f73ae3-eba7-4247-aa63-61a11586a0d7
   :name: 大成スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0430512'
   :address: 北海道久遠郡せたな町大成区花歌392
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ef807232-4519-439f-8eab-37937e88b966
   :name: 富岡スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0430115'
   :address: 北海道爾志郡乙部町字富岡130-1
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e3d1fa11-9933-4f9f-8532-c428b60c72ee
   :name: オロフレスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0520115'
   :address: 北海道有珠郡壮瞥町弁景204−5
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c28392c7-bb8e-43cb-ae7c-5c88d977484b
   :name: 町営安平山スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0591987'
   :address: 北海道勇払郡安平町追分豊栄193
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4624688a-7be0-445b-9821-cb3533e63d0a
   :name: 穂別スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0540211'
   :address: 北海道勇払郡むかわ町穂別604−1
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 298522a5-6899-45c1-a147-2ca2e575a83c
   :name: サンライバスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0590551'
   :address: 北海道登別市カルルス町27
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: cfada4bb-98a7-4750-af64-8017b6f0cb8c
   :name: だんパラスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0500052'
   :address: 北海道室蘭市香川町224−1
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d7136d19-b8d2-4f50-b066-77affbef1b09
   :name: 日高国際スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 16e6dfc6-e1fc-44e9-b741-053621b03231
   :name: 旭岳スキーコース
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0552315'
   :address: 北海道沙流郡日高町字富岡
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3b0cea2f-baba-4e32-84c9-9ee6f58174e7
   :name: アルファリゾート・トマム
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0792204'
   :address: 北海道勇払郡占冠村中トマム
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d94cd3f5-5082-484f-95e4-25a5817f0216
   :name: 伊ノ沢市民スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0708017'
   :address: 北海道旭川市神居7条18丁目
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b71f6c2b-3603-46be-91a8-f7709b9e8917
   :name: 音威子府クロスカントリーコース
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c9683146-de70-46b3-9798-abce1843fef4
   :name: 音威富士スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0982501'
   :address: 北海道中川郡音威子府村音威子府
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d171adf0-ef49-4bab-be37-77f4cfeab9ef
   :name: 上川町営中山スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0781763'
   :address: 北海道上川郡上川町東町
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e862716b-af88-4e2d-9329-1baca7fb16a8
   :name: カムイスキーリンクス
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0741181'
   :address: 北海道旭川市神居町西丘112
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 33d34ca0-6226-4f71-a177-7bb160d5ab20
   :name: キャンモアスキービレッジ
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0711405'
   :address: 北海道上川郡東川町西5号北7線
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 24ecfc28-c6b3-4db7-8ff6-e43d032a8343
   :name: 剣淵町びばからすスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0980341'
   :address: 北海道上川郡剣淵町東町
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 1539f75b-96ac-4800-9db0-3778f6ab8a57
   :name: 国設占冠中央スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0792201'
   :address: 北海道勇払郡占冠村中央
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ac3e27aa-5957-459c-841b-9f3eb764efe9
   :name: 国設ほろたちスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0740415'
   :address: 北海道雨竜郡幌加内町字長留内
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 09ac75e3-0a80-41f7-91c9-a4c3a8e1917b
   :name: 国設南ふらのスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0792402'
   :address: 北海道空知郡南富良野町字幾寅
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ae8c56f7-6734-414f-a69b-fd4a1a89d93f
   :name: サンタプレゼントパーク・マロースゲレンデ
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0708025'
   :address: 北海道旭川市神居町富岡555−2
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 033f0d4b-dde9-42b4-aa1a-f0043d185eb4
   :name: 士別市あさひスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0950401'
   :address: 北海道士別市朝日町中央6656
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f3cc1cdb-93e5-4185-886b-b57d8a1374f9
   :name: 士別市日向スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0980475'
   :address: 北海道士別市多寄町30線西8
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d9bdb010-ad0d-4eea-bdda-afebd167994c
   :name: 下川スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0981204'
   :address: 北海道上川郡下川町南町
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3747b16f-4c45-4956-ae3a-1eb6d1caa8f5
   :name: 白金スキーハイランドパークヒルバレー
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0710235'
   :address: 北海道上川郡美瑛町白金温泉
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9f1d4574-16bc-47c8-bedf-8312eb1c91b9
   :name: 大雪山黒岳スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0781701'
   :address: 北海道上川郡上川町字層雲峡
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f6b4e3b7-e0db-45a2-ba51-6a9d9e179a77
   :name: チセネシリクロスカントリーコース
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f66ada05-cf99-4d74-9f85-b12675d1be95
   :name: 当麻町営スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0781316'
   :address: 北海道上川郡当麻町6条東3丁目1−17
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ea94a988-5f9b-4fc7-9165-504b08d2e859
   :name: 富沢クロスカントリーコース
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: beab9be1-ec42-4031-8f86-d905b1b6292f
   :name: 中川町民スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0708024'
   :address: 北海道旭川市神居町富沢
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 15b250c5-fe1f-4558-80ad-c135430ac5c0
   :name: 中富良野北星スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0710714'
   :address: 北海道空知郡中富良野町宮町1-11
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f02c0267-455f-4120-baa5-24539ce169dc
   :name: なよろ健康の森クロスカントリーコース
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 2bfc6423-ecf8-4c7b-aca7-a884e867a0e3
   :name: 名寄ピヤシリスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0960066'
   :address: 北海道名寄市字日進
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f84915a3-e7f8-4e79-b2e3-44ce688925a2
   :name: 美瑛町民スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3966be2c-122d-4b4e-9da5-6d0de35f1a3a
   :name: 日の出スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0710218'
   :address: 北海道上川郡美瑛町字大村村山
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: efcb054f-348c-4381-8921-1756428d12f7
   :name: 美深スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 51841a09-41d2-4f3f-b827-82f9976698b8
   :name: ぴっぷスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0780327'
   :address: 北海道上川郡比布町北7線17号
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 72933966-3b18-482f-9b60-18d618f3bdb8
   :name: 富良野スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0768511'
   :address: 北海道富良野市中御料
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0685f5ee-4a69-4778-acdd-a35032fc962f
   :name: 和寒東山スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0980101'
   :address: 北海道上川郡和寒町字日の出49
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ab38d2ae-d436-4e4d-97cc-1a6f79f98f87
   :name: 小平町望洋台スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0783301'
   :address: 北海道留萌郡小平町
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5a18ed12-a178-4b8a-b054-a527cf0839d9
   :name: 天塩町民スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0983311'
   :address: 北海道天塩郡天塩町ウブシ4365-2
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: fc3dd371-4b4e-48ae-8d8e-bc85d4f350dd
   :name: 増毛町暑寒別岳スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0770216'
   :address: 北海道増毛郡増毛町暑寒沢698−1
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 1a4c67b1-b6cf-4b4c-9c48-84db92882741
   :name: 枝幸町三笠山スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0985822'
   :address: 北海道枝幸郡枝幸町北幸町
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a669d189-deab-4004-90d0-1f823b46206f
   :name: 猿払村営スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a0409d5f-01e0-42f2-883e-2ae30140fb4a
   :name: 佐呂間町営スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0986232'
   :address: 北海道宗谷郡猿払村鬼志別西町238
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: cb688018-8223-4657-8f8b-97547656902e
   :name: 天北スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0985203'
   :address: 北海道枝幸郡歌登町辺毛内
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 8d908671-fc4c-4c83-93af-2bdfdb7b0062
   :name: 豊富温泉町営スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0984132'
   :address: 北海道天塩郡豊富町字温泉
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 170408d8-e2b5-4850-ba97-542932090c47
   :name: 中頓別町営寿スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0985552'
   :address: 北海道枝幸郡中頓別町字寿64番地1
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 17b4d195-a970-490f-be88-deee7d8189b2
   :name: 幌延町東ヶ丘スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0983223'
   :address: 北海道天塩郡幌延町幌延
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 12fb4435-be9d-493c-b58d-0733a9617e40
   :name: 稚内こまどりスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 64f59dbe-06ef-4696-a411-917fc950c635
   :name: 礼文島富士見ヶ丘スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0970003'
   :address: 北海道稚内市こまどり4丁目
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d60c470c-3b86-44f0-81ae-1543f4d843bf
   :name: 礼文島久種湖畔スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: fef8a84c-ae23-42ae-9a63-61847c8c39c8
   :name: 網走レークビュースキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0992421'
   :address: 北海道網走市呼人28−3
-  :top: 205
-  :bottom: 25
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 32c29921-8ec2-4778-a212-d81d2684a956
   :name: ウトロスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0994351'
   :address: 北海道斜里郡斜里町ウトロ香川42
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 42ee7f08-b2b1-477c-a783-1cca2771d4a4
   :name: ウナベツスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0994122'
   :address: 北海道斜里郡斜里町字峰浜
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 1efe21ac-a5d5-4dd5-8209-43daacb93d7d
   :name: えんがるロックバレースキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0990344'
   :address: 北海道紋別郡遠軽町野上
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 01e7b90e-ca97-4c0a-ac3a-c846bc54b34a
   :name: 置戸町南ヶ丘スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0991100'
   :address: 北海道常呂郡置戸町字置戸284-52
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9193e9f0-f097-4637-8fd9-3af574b36c62
   :name: 興部町営スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0981622'
   :address: 北海道紋別郡興部町字北興38-2
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 1b15128e-5147-4297-bae9-f6074cb5a064
   :name: 五鹿山スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0996323'
   :address: 北海道紋別郡湧別町北兵村2区
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9be21636-c6ab-4dc2-ab80-e2ccf33a2b2f
   :name: 北見若松市民スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0900808'
   :address: 北海道北見市若松651
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5ded5457-51ca-4055-b68e-39fc4038b695
   :name: 清里町営緑スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c5424769-ed4e-4776-a346-6d6c0dd52766
   :name: 佐呂間町営スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0994525'
   :address: 北海道斜里郡清里町緑町51-1
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 93e227b7-cde8-4829-9c64-2b6f1926989c
   :name: 標津町営金山スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0861731'
   :address: 北海道標津郡標津町古多糠
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9a062b87-4e8e-4500-bca8-e06e94be54a3
   :name: ノーザンアークリゾートスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0992102'
   :address: 北海道北見市瑞野町2区829
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6e18a73c-ea47-4e2e-8a7b-f7f02501f4c6
   :name: 桜ヶ丘スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0995541'
   :address: 北海道紋別郡滝上町濁川中央
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 699605d6-c004-4faf-ad52-05e100d6c83e
   :name: 北見市八方台スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0910026'
   :address: 北海道北見市留辺蘂町旭公園74番地
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6e616bc1-8f5b-4b0b-8760-811827cdb1cc
   :name: 宮の森スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 73f5d6ad-f7e4-49ed-a223-b5a08b6ad821
   :name: 紋別市営大山スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0940021'
   :address: 北海道紋別市大山町4丁目25
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 8354b194-1a11-46b7-a91f-18574efca5a7
   :name: 明野ヶ丘スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0890612'
   :address: 北海道中川郡幕別町字明野496-18
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7ca74af1-2f19-47c9-9f15-efa57e2ffca4
   :name: サホロリゾート
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0810039'
   :address: 北海道上川郡新得町狩勝高原
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 1fe5e0a1-2486-4ac1-8436-2f04c30ac071
   :name: 新得山スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0810038'
   :address: 北海道上川郡新得町字新得9
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 045523e2-1237-445a-9775-b0c2e2203bcc
   :name: 忠類村白銀台スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code: '0891701'
   :address: 北海道中川郡幕別町忠類白銀町415番地
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 73cdbf24-d2e5-4c6d-9252-085164867679
   :name: ぬかびら源泉郷スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b8750218-1089-473d-9c3d-6f267fb4120b
   :name: メムロスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: daf88537-8eb6-41e7-8741-a6697faa4104
   :name: 阿寒ロイヤルバレイスキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7df3bc2c-2654-41ca-900e-37871af4850b
   :name: 国設阿寒湖畔スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3f79d1bb-aced-48cc-95b0-cb00912c58ff
   :name: 町営金山スキー場
   :pref: 北海道
-  :area: 北海道
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 96a2f3a1-0d4e-4ce9-956d-d6c812507658
   :name: 鯵ヶ沢大高山スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 484ac152-6f06-486a-bd46-f9a9232a66dd
   :name: アップルヒルスキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 10a645f8-63ce-437f-8aa8-fef1de5f66df
   :name: 板ノ沢スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: fc348747-3255-41c5-ad52-b881de92a457
   :name: 岩木山百沢スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7fa3dc00-48f0-4881-b0b8-28464d0bf9d0
   :name: 岩木山スカイラインスキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7944d438-fc73-4e4c-b248-ac1b3de8ed58
   :name: 今別スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: eed7da65-f316-44df-af0c-f486ad78c749
   :name: 大鰐温泉スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 92274bd3-a3b3-4c59-9437-c7e58bf7deaa
   :name: 於法岳スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f85c2eb5-e045-42c7-bed1-beed0ed0bd1b
   :name: 金ヶ沢スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 01e233bb-6d37-4d92-8ef1-bdff30878c5f
   :name: 釜臥山スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5b2cd442-f1e3-458c-8881-d4dd60b9a331
   :name: 黒石市青少年の森スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 932920a9-276f-4277-a084-e0fc290be996
   :name: 五所川原市嘉瀬スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 499ca865-4a6b-4b75-8f8d-ab51f88ec893
   :name: 七戸町営スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9a97f8b0-cea3-4ccd-8afb-ca4176b418d7
   :name: 創遊村229スキーランド
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 37d30a66-1552-4ac3-a951-ff5e19cd3327
   :name: そうまロマントピアスキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ad1f9937-180c-4dfd-b134-12e8225feda8
   :name: 外ヶ浜町蟹田スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3ca9d1fa-c024-4fa5-8137-65f19e37ac0f
   :name: 高長根ファミリースキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c105fc5d-c273-45d2-a336-6d907f3b9fe4
   :name: 東目屋スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e5ea7282-db40-4d09-9a37-59318406c752
   :name: 十和田湖温泉スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9c60574f-f03d-4901-bf03-273b7941b325
   :name: 東奥スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f1c97b68-3641-4b9b-b569-bf06cb5aec10
   :name: 段々畑スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ef01f3e1-1014-4b22-8441-2c76f1b8e035
   :name: 中泊町営宮野沢スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6a43b7de-622c-4beb-a632-5dffb670425e
   :name: ナクア白神スキーリゾート
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3b3376ba-1e22-489c-ba18-a2326c58aeb6
   :name: 野辺地まかど温泉スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5a3702e7-03f3-4958-8b11-720f38194c5a
   :name: 階上町野沢スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a49fef19-0e81-4649-88dc-c6724a42aab4
   :name: 八甲田スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: abb1ca06-85b5-4d76-b273-8da5e48f19f0
   :name: manogamiスキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 2676afb8-d1b0-447c-9e9f-19f330d5c98b
   :name: みどりの大地とロマンの森公園スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 63b04616-03f5-4b1a-a407-6c8f3d4da881
   :name: モヤヒルズ
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b2c1770b-a634-46f3-8453-ab92a43bbd09
   :name: 夜越山スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c08a30db-fa32-41cb-824f-9df88108bfa4
   :name: 兎沢スキー場
   :pref: 青森県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 606c71a3-fdc3-41be-9bf8-2febbd3710f3
   :name: 安比高原スキー場
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 1f6240ed-380d-4e29-b4e3-3b5406df60fe
   :name: 網張温泉スキー場
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4dceab9d-93a9-4293-8a4c-00543a807e6f
   :name: 岩山パークランドスキー場
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5626ce01-f827-47ea-bb80-d25d48fe7b13
   :name: 岩手高原スノーパーク
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 186c7b91-7b96-42df-834f-bae047bf17a4
   :name: 奥州市営越路スキー場
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4e9e2267-a33c-4480-a63b-e1255a99d2b3
   :name: 奥中山高原スキー場
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4cee27ce-7f16-4974-a030-e1dfe585b185
   :name: 国見平スキー場
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3a617555-dc94-4bc7-9a12-dd1515dabd71
   :name: 夏油高原スキー場
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5f14937b-fa89-4e5e-979d-2585421b78c9
   :name: 西和賀町営湯田スキー場
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4647e1b4-588c-4fec-ac7f-991333bf294e
   :name: ひめかゆスキー場
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c43c0c5c-9504-42bd-b035-3e3891eb2dda
   :name: 祭畤スノーパーク
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 07cfb741-b15a-4415-b465-f922a1dc62fd
   :name: 遠野市営赤羽根スキー場
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: af2d15f6-7d56-438d-b459-6e9b94f7eac8
   :name: 雫石スキー場
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0d655c05-3987-45d8-9d6c-227477b670ed
   :name: 盛岡ハイランドスキー場
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e1a54cee-1420-40f5-a754-8cf27529a65a
   :name: 八幡平リゾート下倉スキー場
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e58c6da1-9005-4242-9f8e-4e50c47b63a2
   :name: 八幡平リゾートパノラマスキー場
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0e19bf6e-d583-41d6-a727-accf6e22da6b
   :name: 早坂高原スノーランド
   :pref: 岩手県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c9dc3cf5-3e3b-40e0-a4d8-77732c1ceca3
   :name: 泉ヶ岳スキー場
   :pref: 宮城県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f8a61338-cf2b-433a-a4d5-ee81e495587d
   :name: 上野々スキー場
   :pref: 宮城県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ca87d07b-c4b2-4dd7-a2c2-9784186fa673
   :name: オニコウベスキー場
   :pref: 宮城県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9bb4df95-0b96-4617-8b2e-e0c67d6425be
   :name: スプリングバレー泉高原スキー場
   :pref: 宮城県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 96e86e49-b330-41dd-8fb8-5392e49b8d96
   :name: セントメリースキー場
   :pref: 宮城県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 8f35e9c5-4f74-4e96-98c0-c56231f1deb0
   :name: みやぎ蔵王えぼしスキー場
   :pref: 宮城県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6996e500-8c73-494f-9778-18e3caa6e132
   :name: みやぎ蔵王七ヶ宿スキー場
   :pref: 宮城県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 84fc6ea7-79f9-4d79-b715-99e9a62ed5c2
   :name: みやぎ蔵王白石スキー場
   :pref: 宮城県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 19464deb-e131-41eb-aa7b-8ff1331856b1
   :name: みやぎ蔵王スキー場すみかわスノーパーク
   :pref: 宮城県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: cae471fe-7812-4c49-94ce-73fdd18085ea
   :name: みやぎ蔵王セントメリースキー場
   :pref: 宮城県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e232e167-97e0-47b3-9ca5-db16236275e4
   :name: やくらいファミリースキー場
   :pref: 宮城県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b072fded-ed98-4d3c-ad4f-4825cd9056bd
   :name: 秋田八幡平スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5c739533-aa00-445b-9436-900a0b4dc2fc
   :name: 阿仁スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a35f0e40-82e9-4ffe-a8fa-57c459c632b9
   :name: 水晶山スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 735cfed6-b04d-487a-b2c4-3173692d7f97
   :name: 花輪スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c19ca8a0-3de8-43e2-9c1f-8920a3429acd
   :name: 藤里町営スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 14f437f1-e460-463c-bac6-21fbcc2ec677
   :name: 大曲ファミリースキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: bbf7d03e-0280-4788-9d97-fe5ac0cf76c0
   :name: たざわ湖スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7cb2676a-b91c-44e8-b383-8ba484c78b01
   :name: 大仙市営協和スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d3f08152-21c8-4754-989e-12014b0f2eab
   :name: 大仙市大台スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 040fff64-8b14-49c4-810a-8c2a8dfe62f9
   :name: 太平山スキー場オーパス
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: db063942-ee3e-4fab-90cf-3446badb987d
   :name: 五城目町営恋地スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 39387ddd-1f94-41f7-b19b-c782b1c926b8
   :name: 鳥海高原矢島スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 978d4153-8082-4cc9-b72a-803894d98b9f
   :name: 鳥海オコジョランドスキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f7733fa2-c7f6-4345-ad36-5375d2da6b35
   :name: 横手公園スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 1b1bcbed-5e83-4c82-b2ab-2fbb921008b4
   :name: 横手市天下森スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 08973c27-2719-4025-be05-6090410853c3
   :name: 湯沢市稲川スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 75a678b2-58d6-461d-8f6e-4a5d558a2e5b
   :name: 湯沢市小安温泉スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 512c5160-2193-4b3c-91a3-8834f7ff3100
   :name: 湯沢市湯沢スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4acf6623-a5f4-4172-8170-d71ad5a60a41
   :name: 湯沢市秋ノ宮スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 029601c7-652e-4a26-81f1-f0ef36af4d25
   :name: ジュネス栗駒スキー場
   :pref: 秋田県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 87847125-d6f4-41c0-ac99-9e6b70d18448
   :name: Asahi自然観スノーパーク
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7c3453df-6511-441a-9eaf-3a03672c618e
   :name: 秋山スキー場
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 51e1f344-0af1-4dc9-a83a-b7d3a9df6aa3
   :name: あつみ温泉一本木
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c6da6dde-063e-41e5-abef-cf854de1e4f3
   :name: 月山スキー場
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3fd715fd-0023-4c1e-9c7c-d9eb938b07fc
   :name: 神室スキー場
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4fef95f8-a0dd-4c22-a027-26f93fa880c6
   :name: 黒伏高原スノーパークジャングル・ジャングル
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0ba011b1-94a3-4d3f-8e8b-ecd2982133a9
   :name: 栗子国際スキー場
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ec4355de-18d8-4f36-8575-2b961b619e39
   :name: 山形蔵王温泉スキー場|蔵王温泉スキー場
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 1e075348-b079-4c04-8020-d25ee872c41d
   :name: 蔵王猿倉スキー場
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0f621dbb-cec7-42a2-b587-5b19b449056d
   :name: 蔵王ライザスキーワールド
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5aff4a91-71d7-4cdd-adc3-eefbe9e84b71
   :name: スノーパーク面白山
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 578d9a66-f8ec-4483-923d-50db61669e0c
   :name: 里山スキー場
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3ea81d19-24aa-4a7f-b20f-5652c680a876
   :name: 天元台高原スキー場
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a32326d8-ec7c-422e-bd28-9b654a69067f
   :name: 天童高原スキー場
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 94d27247-784f-47ce-a3d3-98ee73e9d359
   :name: 羽黒山スキー場
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 2a32a52f-caad-407b-b0d5-05e9d8ae7bde
   :name: 松山スキー場
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d8edd867-cc28-4668-a876-8aede0ab13db
   :name: やまがた赤倉温泉スキー場
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ad0348da-bf75-4882-8e31-183d153200a1
   :name: 湯殿山スキー場
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5e2150c9-dbd3-4615-a7e7-c8a2a90498b4
   :name: 米沢スキー場
   :pref: 山形県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c4a0cd05-b1ce-49af-9373-7a1597983a12
   :name: 会津坂下町営スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0f4aab9e-118d-4118-a153-213cfdff7837
   :name: アルツ磐梯スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9615ae38-e59d-41ae-b20f-75b11fc85d58
   :name: 猪苗代スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3a101e42-692c-40ae-8adc-89f86c1845b3
   :name: 猪苗代リゾートスキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: bb850a33-33f3-47b2-8262-cfefc105f7dc
   :name: 裏磐梯スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: fd1f06e8-c28e-4294-b5dd-c629a9b48200
   :name: 裏磐梯猫魔スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: bc3f3ecf-724f-47ec-a6f8-b1d00d8577d9
   :name: グランデコスノーリゾート
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6ad22e24-51c3-45d0-999e-19acba37d680
   :name: 沼尻スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b9c25cf0-5e6c-4562-acd7-35a6278649c6
   :name: 磐梯国際スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 20285a5f-c17e-45a2-a073-f50fdef03e61
   :name: ファミリースノーパークばんだい×2
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: fb9d3554-7c27-4a53-b82b-195804843d30
   :name: 箕輪スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ccf9d5b7-aac9-43cb-b997-ab8a78b933a0
   :name: 三ノ倉スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: afd442e5-b4c0-436d-b71e-36515d04db06
   :name: 横向温泉スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 747d44f4-b1c3-401e-bba3-781cf8c25038
   :name: リステルスキーファンタジア
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6b8f282d-7bcf-47ad-91da-f1951afbf4e2
   :name: 会津高原だいくらスキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a018d12b-1fbb-428a-9774-4a62b28c0cad
   :name: 会津高原たかつえスキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4f3cd212-ee87-491a-b758-86aed18e5e44
   :name: 会津高原高畑スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 85231394-6eb1-4b24-98bc-45d816c90d02
   :name: 会津高原南郷スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 07dc73e8-b674-4d87-a414-12882233ef7b
   :name: 尾瀬檜枝岐クロスカントリースキーコース
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6ca7aac5-7f3a-43d8-b2f6-aaa7f9b5be27
   :name: 只見スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 89d16ee3-5eb8-45c2-80b3-5631ca484e45
   :name: 檜枝岐温泉スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 00cc7715-3a21-46ec-b570-fb42e1524ec1
   :name: フェアリーランドかねやまスキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5ade6ee4-8ab7-4dca-a2fd-9dc6f03a7425
   :name: 柳津温泉スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 64afa1e7-506d-488c-a9d2-4c1dcb418cb8
   :name: あだたら高原スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: cdc59b14-a96b-428c-9fbb-e9ebcf37e7f5
   :name: グランディ羽鳥湖スキーリゾート
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3ec40f4e-80d3-4995-a856-62b958a75e51
   :name: スキーリゾート天栄
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 96cbf5fa-fa6f-4d21-a5ba-842d0f6d6fb6
   :name: 二本松塩沢スキー場
   :pref: 福島県
-  :area: 東北
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6b73cc59-731a-4ab0-9a42-626d3ef37fe1
   :name: エーデルワイス スキーリゾート
   :pref: 栃木県
-  :area: 関東	
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c3f650c3-ca56-4618-bc6e-c5a96d500944
   :name: 那須温泉ファミリースキー場
   :pref: 栃木県
-  :area: 関東	
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: cf32eebc-d12a-465d-aae1-14e5e8d5ae8d
   :name: 日光湯元スキー場
   :pref: 栃木県
-  :area: 関東	
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 8e7fa0fc-9771-4a54-a928-55437dfbba07
   :name: 光徳クロスカントリースキー場
   :pref: 栃木県
-  :area: 関東	
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: eec26d92-4771-4d6d-8028-fbe554eb3b43
   :name: ハンターマウンテン塩原
   :pref: 栃木県
-  :area: 関東	
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3395eafe-80a3-47ba-ac08-bbc4c8a19440
   :name: マウントジーンズスキーリゾート那須
   :pref: 栃木県
-  :area: 関東	
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: bbe268e2-5303-42ed-980e-029bbcc8cbe0
   :name: 中三依ファミリースキー場
   :pref: 栃木県
-  :area: 関東	
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0e9be561-28f1-4775-9766-8fde80353142
   :name: 四季の森ホワイトワールド尾瀬岩鞍|ホワイトワールド尾瀬岩鞍
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b2c8c606-5352-4397-8d94-4a70037299c7
   :name: かたしな高原スキー場
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 51e59d9d-b9cc-4a2a-ace2-ab3b468dd342
   :name: 川場スキー場
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 41c77eea-0cb7-4f68-9668-67a2b0355662
   :name: サエラスキーリゾート尾瀬
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a7d0f214-2b8f-4633-9cfa-4a3fb9b06bd0
   :name: スノーパーク尾瀬戸倉
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: debb5d7f-c45f-4a09-b937-fe1868e72f63
   :name: スノーパル・オグナ武尊|スノーパル・オグナほたか
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 266704e0-0833-4dd4-8c11-7ede72604409
   :name: たんばらスキーパーク
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 546588d9-7753-4c30-9da4-d5a2ae877869
   :name: 武尊牧場スキー場
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 35d0d6d5-2a7f-478d-a390-a646ca9fa568
   :name: 丸沼高原スキー場
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ae07348f-214b-479c-ab07-af71ffd29a53
   :name: 大穴スキー場
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5786f602-4eef-4104-8ba9-6911deda5217
   :name: 奥利根スノーパーク
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 31a028a5-71f5-4a0b-b531-40f334000ede
   :name: ホワイトバレースキー場
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: bb3ee2e7-a12b-4697-b0ea-c39c85b39eff
   :name: 谷川岳天神平スキー場
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: dafb8218-7af0-44a7-801f-0d2d2f272a27
   :name: ノルン水上スキー場
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 86eabbc4-5ffd-4508-a7f4-7aefce4c29d9
   :name: 水上高原スキーリゾート
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9fe27c54-762d-4f26-8f9a-0869888540ff
   :name: 水上高原藤原スキー場
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7b6061c3-d6cc-4a45-b2b2-46490dfdc699
   :name: 水上宝台樹スキー場
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f87186ea-ff0b-4f51-9426-1e9ca2d9d57a
   :name: 鹿沢スノーエリア
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: eef0e135-d1a6-4cea-927c-fd8027e1ccb4
   :name: 軽井沢スノーパーク
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c15e72d3-0fc7-4f78-a168-19c9e97d67cb
   :name: パルコール嬬恋スキーリゾート
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 83b5fc98-8c6c-4d24-a041-16a525280085
   :name: 表万座スノーパーク
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 128bf123-1b24-4b9e-9ea5-99c3113247cd
   :name: 草津国際スキー場
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 63daaacb-41e7-4363-a72f-823373ac68bd
   :name: 万座温泉スキー場
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0281f3d5-4d5f-4298-b43a-621ec5ba0036
   :name: 赤城山スキー場
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 57fad25d-0bdf-45a1-bf9a-1a7d243faa76
   :name: 赤沢スキー場
   :pref: 群馬県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 41669355-61e5-4b23-916c-9963a89bf540
   :name: 狭山スキー場
   :pref: 埼玉県
-  :area: 関東
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 53f9bfab-a79f-426b-aa58-9951b543f7f9
   :name: スノーヴァ溝の口
   :pref: 神奈川県
-  :area: 関東	
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: cd70d201-1bb7-4b03-86b9-a77557d6b484
   :name: スノーヴァ新横浜
   :pref: 神奈川県
-  :area: 関東	
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3ca392be-9c40-433c-a8f3-6ae78063205d
   :name: カムイみさかスキー場
   :pref: 山梨県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a451416f-d721-427d-9e1f-f8cd3e22a5f6
   :name: サンメドウズ清里スキー場
   :pref: 山梨県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f9fde91c-63de-48fe-ac07-c8f13fe85504
   :name: ふじてんスノーリゾート
   :pref: 山梨県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7f3e7c58-ebf0-4a3a-93fe-815ceac4d05c
   :name: アサマ2000パーク
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7b7d992e-d5fa-47ce-8982-65a12b50fd9f
   :name: 飯綱高原スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5d60aa97-e70a-40ad-b27f-98899c3cc4ee
   :name: いいづなリゾートスキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4bf23cc5-0d4e-46b0-8dca-e45c87ebe84b
   :name: 飯山国際スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 04217be1-e39b-4950-a187-a258986fdf0e
   :name: 軽井沢スケートセンタースノーボードパーク
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9e68c9b8-a844-4c97-9df3-6cc136492ed2
   :name: 軽井沢プリンスホテルスキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 37169090-f49b-4b32-960f-5648a6237eaa
   :name: 北志賀高原小丸山スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 8af47026-1012-4b98-be41-db5fddad2bce
   :name: 北志賀高井富士スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d0762558-9d7a-4e42-935f-16f2f34e9970
   :name: 北信州木島平スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9cca3b51-dbbb-44c8-b56c-730e78f19938
   :name: 北信州牧の入スノーパーク
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b2702e8c-2e4f-4568-bb96-3fac89df9654
   :name: 黒姫高原スノーパーク
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e4397673-3278-476c-b6ec-df1921802b42
   :name: ごりん高原スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: bc2f9d1c-232d-449b-9315-03ccabc45aa6
   :name: さかえ倶楽部スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d9403083-241e-4419-890e-a14afc3096b4
   :name: 佐久スキーガーデンパラダ
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3a933377-539e-4ff8-b021-1462f42a0309
   :name: 志賀高原スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 54e679ae-7cb8-4dbc-83f6-6304d666f0df
   :name: 信濃平スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 84c9961f-c14a-4932-9302-4525614b11f0
   :name: 菅平高原スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b966c24e-c96c-42b0-a16d-1ec8c6e5064f
   :name: スノーボードワールドハイツ
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 58bb21cb-58cd-4207-9912-c41ceebec5ce
   :name: タングラムスキーサーカス
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 65b344b0-d3e5-403b-95f8-0f82489d9c15
   :name: 戸隠スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 90e7fb43-0dd3-4ae8-9198-853cebce911f
   :name: 戸狩温泉スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5a94b713-c97c-4055-b167-8c7a41952893
   :name: 野沢温泉スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 54366ac0-0700-4b4d-87be-74e693a1abe7
   :name: 番所ヶ原スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0ded518a-f305-466f-8e43-482ecafc71b1
   :name: 聖高原スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 45914d3e-e090-40b5-97c7-504fd6b11ec3
   :name: 聖山パノラマスキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 2730deca-0c2d-4f8f-ae45-c1c06cd73703
   :name: 北竜温泉ファミリースキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4bc22de7-da00-44d7-84f2-77f248714c28
   :name: 斑尾高原スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7051ea6d-1893-48d7-9e15-89bf90ec3f9a
   :name: 斑尾高原サンパティックスキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e89b1fa3-b9c8-4eab-a178-2f998cf2c1e2
   :name: 斑尾高原豊田スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: dcf94b7d-edba-4fd4-b680-dc33823fbe97
   :name: 峰の原高原スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 183ae9b4-7b83-46df-9005-b2b8718de767
   :name: 山田温泉スキー場|山田温泉キッズスノーパーク
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 2a4a2352-e2f8-4df4-a07a-6667d54addae
   :name: YAMABOKU ワイルドスノーパーク
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6c03742d-3da0-4fe7-8c7d-e3cbc530a372
   :name: 湯の丸スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d7c69f1e-d91a-458a-9e3b-118609ba63fc
   :name: よませ温泉スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f252fa76-c851-4986-a611-1ef3b4c784a3
   :name: 竜王スキーパーク
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a021586f-3df3-48d7-8ed9-6b2101032df2
   :name: あさひプライムスキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 05c4ccc2-8ae3-4d84-a00e-07f22786739e
   :name: あららぎ高原スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 55f44268-afd6-4622-83ea-eecfb92cee5c
   :name: エコーバレースキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 965a8eea-ba23-4b77-986b-410bce0d1c99
   :name: おんたけ2240
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9de15f2c-506d-48d7-bdd2-2bd362b15a9d
   :name: 開田高原マイアスキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 27540a5c-94c4-4f63-bd43-7849741776b8
   :name: きそふくしまスキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b39b2214-1822-40b2-8153-e2335eacc1af
   :name: 車山高原スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4d85e95e-f0d6-4533-8530-f478ca089be9
   :name: 小海リエックス・スキーバレー
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6b94b0ab-d294-4177-9547-08efdb57dbfb
   :name: 駒ヶ根高原スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f7ccb05a-b686-4db8-8352-d988f4b030e7
   :name: 治部坂高原スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 37b0feb9-3d5d-4020-93f1-5e2dc0a675bb
   :name: シャトレーゼスキーリゾート八ヶ岳
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 69632c33-5329-4827-8cd2-04ee9940f9f6
   :name: 白樺高原国際スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 459b6efe-875c-4bf5-b081-540fd4131038
   :name: 白樺湖ロイヤルヒルスキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9b7653b0-f2b4-427b-8402-bf1a739546d6
   :name: 白樺2in1スキー場|しらかば2in1スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4b8cf83f-016c-4475-97e0-41f01e0e7bd6
   :name: 白樺リゾートスキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7b8d2b64-d342-4d3b-9029-1e4c9e6e3a4e
   :name: 信州松本野麦峠スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 1a1a1e6e-a614-4e7d-adfa-6f77c5e2ff70
   :name: 千畳敷スキー場|中央アルプス千畳敷スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ef53b9e2-88f3-4b50-8127-ec1313ef1c62
   :name: 蓼科東急スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 121347d9-f384-42da-b449-7c7f72b9f245
   :name: 中央道伊那スキーリゾート
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 030dc49e-37b8-4a66-856b-b5e87a7b7200
   :name: 乗鞍高原いがやスキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 18ce6ec0-f89e-43f1-84f9-c00036b4c9c2
   :name: ピラタス蓼科スノーリゾート
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: df26af04-d107-4be5-bf48-2063ab241773
   :name: 平谷高原赤坂スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 01cf0102-9484-4b42-a7e4-77bdcb9b4e96
   :name: ファミリーゲレンデ霧ヶ峰
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b3b7382b-aa4a-4e48-93aa-46ce5660ebc7
   :name: 富士見高原スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 24530ec7-3e98-4518-87ac-c790f0328db0
   :name: 富士見パノラマリゾート
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0e2bb54c-fde8-40a7-95e1-6a49d4293ccd
   :name: ブランシュたかやまスキーリゾート
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d412421a-50b4-437f-84da-d588b17bf3f2
   :name: ヘブンスそのはらSNOW WORLD
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 10e3eeeb-4d5c-4d08-b75c-eacca3e6e879
   :name: Mt.乗鞍
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d502e70a-63bc-4cff-afdc-4935d77593eb
   :name: 八千穂高原スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 257af8c9-729e-4542-a7cf-385ebc98de28
   :name: やぶはら高原スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c96611ea-6551-4bf0-aef6-9811b9b627d1
   :name: レーシングキャンプ野辺山
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c358ac83-3bb2-46e1-bb26-139ed7aa2ee0
   :name: サンアルピナ青木湖スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a5b6a75e-8230-4d44-9e7e-27babf4d3631
   :name: サンアルピナ鹿島槍スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 2de4a402-20ba-4061-8313-f680dc6769a1
   :name: サンアルピナ白馬さのさかスキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 213eafa8-897e-42ae-b848-ed98df9ae7e6
   :name: 爺ヶ岳スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: acddb4cf-d293-44bf-a86d-4ce59360a213
   :name: 栂池高原スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5873178f-ee93-4ad2-abd9-1049457d732e
   :name: 白馬岩岳スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c3f9dc81-5247-4e00-8555-b359c8d70031
   :name: 白馬クロスカントリー競技場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7910ab38-d582-4587-b7bf-987a3369c44f
   :name: 白馬五竜スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ce6a215d-b004-4d9d-b490-dacd2edc65a9
   :name: 白馬コルチナ国際スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9a216383-c953-4384-a5e1-4cbe581ac99d
   :name: 白馬乗鞍温泉スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0436ea47-388f-44a8-ab7f-105926ca51bf
   :name: 白馬八方尾根スキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0b091ddb-8f7d-4270-902e-9cc3cde1021c
   :name: Hakuba47ウィンタースポーツパーク
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f8ebff7f-bccf-4049-9aea-3bbb121b82ae
   :name: 白馬みねかたスキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6dd4a62a-44ed-4ebf-b175-b1ab334df182
   :name: ヤナバスキー場
   :pref: 長野県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f668eeed-d833-4c83-823e-a2c6a629ba97
   :name: 石打花岡スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4cc3513e-fe91-458e-a581-9c336015f874
   :name: 石打丸山スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 378e1c85-272c-4255-acd3-aac6448000eb
   :name: 五日町スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4f31e008-fcff-4874-b1df-492eee9157a6
   :name: 一本杉スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6e333594-c1e8-46d7-b0c0-51c2b5a6ba64
   :name: 岩原スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b33aadfa-e156-437c-ac49-a66f662e4ec3
   :name: 魚沼市営大原スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 11d73873-3e32-4c94-b5c8-8bfa7334b5ca
   :name: 大湯温泉スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e56ec5d2-76b8-4bf4-904e-96fb1e41615a
   :name: 奥只見丸山スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 140cfbcb-a7e1-4d1e-b9ee-6fadbb14c2c2
   :name: ガーラ湯沢スキー場|GALA湯沢スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9860c483-29d1-40d0-b6f3-d85de6846540
   :name: 欠ノ上クロスカントリーハウス
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 663960b0-341c-4ec6-88b0-7e665d20ce8d
   :name: 神立高原スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 663772ea-394d-4b17-aa3d-5e1d5a5dd908
   :name: 小出スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 34a0541c-78de-446d-90c3-19ff8eac1907
   :name: 国営越後丘陵公園
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 74538d91-a0a7-41cc-86f6-971ce3e235dd
   :name: 古志高原スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e8700090-0927-4043-8b7b-74080d4bf99f
   :name: 市営八海山麓スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d4e1d227-955b-41ff-a61b-97bcd1d4ed00
   :name: 下条中峰スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 983d2d86-22b2-4edf-9c02-606aaf3bad78
   :name: シャトー塩沢スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 474f863b-9ff3-4f07-99d5-b899ecf62008
   :name: 上越国際スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 584db30c-03c7-4c21-b8b0-ef6578342124
   :name: 須原スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 68724b9a-5614-4d6f-8252-53efe2bcaf6a
   :name: 舞子スノーリゾート
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 52086fd2-5bcb-4dc5-bbb8-7cba33c1516c
   :name: 高柳ガルルのスキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e8c2c718-ed02-46d8-8410-d125d2be7f31
   :name: 十日町市松代ファミリースキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 39c0011c-5376-439e-aeab-3a9a144d832b
   :name: 十日町市民スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: dab734cb-a45f-4f02-9c52-b87b94258bbf
   :name: 十日町市吉田クロスカントリー競技場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: bc30096a-1e8f-4080-a967-34606ef9246b
   :name: とちおファミリースキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 669d1b77-54da-43ff-bf87-f901dbd867e6
   :name: 長岡市営スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a5d68be0-36e8-4e96-bbd7-b3b49bb4cfb7
   :name: なかさと清津スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e4c0adcf-dc10-4acb-b545-9a32b62b3c8d
   :name: 中里スノーウッドスキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 460b3dcd-e9fb-4909-9be6-cd9e2ba6395f
   :name: NASPAスキーガーデン
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4d639703-2993-4c98-bc32-495293e56979
   :name: 中条桂スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 49b57b01-b6e8-4a95-8e32-aeef0b1856e1
   :name: 中峯スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ffe1b5f8-3ade-4620-9c1d-56c022fc1f29
   :name: ニュー・グリーンピア津南スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 8eeba673-1733-4c1e-9916-c8b1e7c674e3
   :name: Mtグランビュースキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3076e71a-382f-4976-a95f-0046927cfb6a
   :name: Mt.Naeba
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3efec7d1-0e46-4152-bd05-14f830892137
   :name: マウンテンパーク津南スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9edc1921-a88d-4282-83e7-baa3e4866167
   :name: 松之山温泉スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: be3f3a7e-6b3d-4895-9ade-d350b7bc5507
   :name: 見附水道山スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 795d3be4-b78b-4d74-8ba3-00a700d24140
   :name: 六日町八海山スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 53fba647-f69c-41f5-b073-0b9d3721c036
   :name: 六日町スキーリゾート
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0dfdbde0-8ca9-4117-839c-439bcc8f6cfb
   :name: 薬師スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 319f161d-0f8d-4a8f-892f-1fa7b0e41199
   :name: 湯沢高原スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 21b6f42e-0867-4f6a-a09b-5be89bf13dc8
   :name: 湯沢中里スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3273f69d-a0e0-4ecd-a0d0-219cea22664a
   :name: 湯沢パークスキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 1604a9b2-b948-45dc-8da9-59c36134d81d
   :name: ルーデンス湯沢スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d52fb5fd-3b13-42d7-8f88-c3f3472d9843
   :name: マウントパーク津南スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a97f2aff-0ce8-4ff5-ac01-18075ba3f692
   :name: 赤倉温泉スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 67232cb7-2674-42e4-9ff3-2fcf3325680f
   :name: 池の平温泉スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f6727da3-7ac2-4e41-989d-f2dd8e2344f2
   :name: 妙高杉ノ原スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: bf782baa-691c-4fc2-9a2a-d12b0061955c
   :name: 妙高スキーパーク
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a3c0ef7a-2b64-464d-9f61-8e4f9c5fe7d1
   :name: 休暇村妙高スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 51f47adb-4c7f-48a5-beb6-11d6a595abd0
   :name: 関温泉スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6f4eb311-2a8a-40ac-8914-419cac8fa559
   :name: キューピットバレイ
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3bb316d6-d054-45eb-8c21-bf1c7f5ec496
   :name: 金谷山スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c4129c0f-387b-4867-91fe-db62f52742eb
   :name: シャルマン火打スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 8407d61c-ebfc-4703-8f89-2a3faade6262
   :name: 糸魚川シーサイドバレースキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b0edfed9-8e12-4fd1-9fef-41d1d59733c5
   :name: 国設胎内スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e761e5ea-2311-407d-98b9-309e8838d86b
   :name: 角神スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f306f8e1-60e2-4cb8-941b-aa396460e69b
   :name: NINOHJI SNOW PARK NINOX
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0f79103c-f921-4f10-bcfa-aa13c37ac0fd
   :name: 冬鳥越スキーガーデン
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f01fd403-e6b3-4f15-a70e-4e73f313cf5c
   :name: 三川温泉スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9878eff2-b9b3-4a8f-ac36-fffa100d4b7e
   :name: 村上市ぶどうスキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: cca54282-a0d6-4807-adec-9c1714d85652
   :name: わかぶな高原スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ad574ec0-631d-4497-8515-b370f1973d30
   :name: 佐渡市営平スキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 477da2dc-ffc6-4b32-bef9-b755d1538d94
   :name: ワンダーバレーさどスキー場
   :pref: 新潟県
-  :area: 甲信越
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4a3e9649-ac10-45bc-a02e-91ee0b052a79
   :name: イオックス・アローザ
   :pref: 富山県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 553bb37e-6d49-43b0-ac10-3abacf3da7de
   :name: 牛岳温泉スキー場
   :pref: 富山県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ed2ea372-183b-463a-8896-d398d8e52c72
   :name: 宇奈月温泉スキー場
   :pref: 富山県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ab43b934-b7e8-4547-899e-ad071048245c
   :name: たいらスキー場
   :pref: 富山県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: da3d3693-ea90-406f-8847-f6553698ed20
   :name: タカンボースキー場
   :pref: 富山県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6cd76701-3fe1-4948-8dd0-9252694855d2
   :name: 立山山岳スキー場
   :pref: 富山県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 1eca7125-6b71-4660-85d5-24b0ff333cac
   :name: 立山山麓スキー場
   :pref: 富山県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 962bb1ad-7cbd-4ebf-ba65-b6dacd82b629
   :name: 夢の平スキー場|となみ夢の平スキー場
   :pref: 富山県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ea842d03-d878-46a1-95df-108170c4f6f4
   :name: 大倉岳高原スキー場
   :pref: 石川県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9418da38-689e-46ac-8887-459d38586b30
   :name: 医王山スキー場|金沢市営医王山スキー場
   :pref: 石川県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f0132e14-2e2e-49ea-abe3-94f109dc9043
   :name: 獅子吼高原スキー場
   :pref: 石川県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e7cf9c4b-c8b1-4890-a57f-159f2e05f477
   :name: 七尾コロサスキー場
   :pref: 石川県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 23675864-79bf-4922-a0fc-cc9e76756e43
   :name: 西山クロスカントリースキー場
   :pref: 石川県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6ca7dab3-d3e5-47a2-9b61-6fbd47c6f220
   :name: 白山一里野温泉スキー場
   :pref: 石川県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0e5d6ffc-b990-4a78-be8f-441bfb95152e
   :name: 白山セイモアスキー場
   :pref: 石川県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 00756e68-f1a5-4c9b-97db-139141855d9f
   :name: 白山白峰温泉スキー場|白峰スキー競技場
   :pref: 石川県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c5239e6d-0ec6-483e-8a92-30533083bed4
   :name: 輪島市営三井スキー場
   :pref: 石川県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 862e6918-9c4a-42ff-8a28-2486a7d9159b
   :name: 莇生田スキー場
   :pref: 福井県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5342b2ab-684f-4f7b-9798-5423aa0c1d75
   :name: IZUMIクロスカントリースキー場
   :pref: 福井県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: bfd44838-e940-4fea-8225-a2bc63643612
   :name: 今庄365スキー場
   :pref: 福井県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9a3d36c0-b4fd-4717-988e-dbe18c48f1e4
   :name: 雁が原スキー場
   :pref: 福井県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e75a4a87-8ce8-4327-a5e4-ae20e6c50d9b
   :name: 九頭竜スキー場
   :pref: 福井県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: ce022305-d668-431d-9d69-2767c8e199f5
   :name: 新保ファミリースキー場
   :pref: 福井県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 72eb47d1-9b52-4291-a0fc-9c90aadb9ce3
   :name: スキージャム勝山
   :pref: 福井県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 850445b9-2c1f-4202-b78f-d559abdecff2
   :name: 福井和泉スキー場
   :pref: 福井県
-  :area: 北陸
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: caf48ce4-d051-4a68-86e9-fe4c770f4cfb
   :name: 大久保グラススキー場
   :pref: 静岡県
-  :area: 東海	
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 71ac1ae5-64fe-4051-9f0a-398f715f1c65
   :name: スノータウンYeti
   :pref: 静岡県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a4d1edcf-7acd-4523-b82a-0e22fa72731b
   :name: リバウェル井川スキー場
   :pref: 静岡県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: fd0856c9-c8f1-4754-bdef-51546f340afb
   :name: イトシロシャーロットタウン
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: bc8181a3-d774-4ce5-9a41-4add242ecab0
   :name: 揖斐高原スキー場
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0b67bcc4-8f09-4d2b-b735-54f8a8ee62a9
   :name: ウイングヒルズ白鳥リゾート
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7f9e1872-01d6-4dcb-9312-f86d2fb5c3b4
   :name: 郡上高原スキー場
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3806e6df-24fc-4282-b4fe-ae95a6c3eba8
   :name: 国見岳スキー場
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 34bc098d-6a83-48d4-b199-67afe7c87ca4
   :name: 荘川高原スキー場
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 55fb7824-9106-44af-b109-22994cfe6063
   :name: しらおスキー場
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0f4aa21c-e4af-4312-ae6e-ba7be232e4fd
   :name: 白川郷平瀬温泉・白弓スキー場
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3b48a076-1bfb-4c60-8e9e-3c476a69ef29
   :name: スターシュプール緑風リゾートひだ流葉
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 2d4faefe-1051-4623-aaee-35ed8dbb226c
   :name: スノーウェーブパーク白鳥高原
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 1238f3a7-f2e4-4b56-bd00-37eefa1bdb8b
   :name: ダイナランド
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: fd90231f-8f03-47da-95ec-8746182d0607
   :name: 高鷲スノーパーク
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6accad00-eb58-438d-a658-e546f6dee500
   :name: チャオ御岳スノーリゾート
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a06b1759-1e78-42b0-a26e-39e670722154
   :name: 飛騨かわいスキー場
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: a3982187-6972-473f-89a7-ef163ae1ee84
   :name: 飛騨高山スキー場
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 749fc39f-0ff6-4741-969e-435fa6538973
   :name: 飛騨ハイランドスキー場
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: de8d406a-9d77-4e6a-9a33-4894ffffcc51
   :name: ひだ舟山スノーリゾートアルコピア
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 8bf00503-de8a-4d58-83a3-127d33d93345
   :name: 平湯温泉スキー場
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 46d93666-4b86-4fc4-a869-261766e789c4
   :name: ひるがの高原スキー場
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7f57f0ea-d062-4364-8aeb-2ae3352f8092
   :name: ほおのき平スキー場
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 70bfbbd5-4941-48b9-b8df-566db958b359
   :name: ホワイトピアたかす
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f8214ad6-973a-4d49-8d1b-e5c29d679e07
   :name: めいほうスキー場
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d30b13cc-c043-4036-8d44-dd3a4b1c571e
   :name: 母袋温泉スキー場
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 474e1111-15db-4c24-b73b-b9f0cb8bc541
   :name: 道の駅モンデウス飛騨位山|モンデウス飛騨位山スノーパーク
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: bc75bcc4-7024-4643-a1cc-9617ca62f15f
   :name: 鷲ヶ岳スキー場
   :pref: 岐阜県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e1e704cd-a031-47a9-b7a3-4e35c6298436
   :name: 茶臼山高原スキー場
   :pref: 愛知県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f5aa7aa1-0aba-440d-a7f8-29a414d7d8c0
   :name: 御在所スキー場
   :pref: 三重県
-  :area: 東海
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0ea9151e-8a40-4cd6-b541-536a1d9d3cbd
   :name: 赤子山スキー場
   :pref: 滋賀県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9739ded3-4b75-40b4-81e7-fed25fa959de
   :name: 奥伊吹スキー場
   :pref: 滋賀県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0b489d65-e11a-47ee-a30e-e7f0a9e33814
   :name: 国境高原スノーパーク
   :pref: 滋賀県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e1f1c533-fb2f-4fab-ae0c-0eb05644dc27
   :name: 箱館山スキー場
   :pref: 滋賀県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4dc10e93-e7bb-474a-8cd7-4952240b4b0c
   :name: 朽木スキー場
   :pref: 滋賀県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7f2ae5c6-95df-4c10-b13e-0f16e7171e2f
   :name: びわ湖バレイ
   :pref: 滋賀県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7415f9a2-f0d7-43e6-a0b4-07c803381fed
   :name: ベルク余呉スキー場
   :pref: 滋賀県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9e61329c-016d-4402-8bfc-191e4dc574a0
   :name: マキノスキー場
   :pref: 滋賀県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b8aaa6d1-b08a-4f12-ae4d-ded3479a46f2
   :name: 余呉高原リゾート・ヤップスキー場
   :pref: 滋賀県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 47b7df48-cc79-4d0c-bf00-f81907065ea4
   :name: 大江山スキー場
   :pref: 京都府
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b67a02f6-8f06-4758-8109-dd9f4ed8af29
   :name: 京丹後市弥栄町スイス村スキー場
   :pref: 京都府
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6652e0b7-4b9a-401d-8d04-6116e4ca54d8
   :name: 京都広河原スキー場
   :pref: 京都府
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c5c1fa6c-da95-48a3-938e-6114156ded92
   :name: おじろスキー場
   :pref: 兵庫県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c9d46b26-a0a6-4a32-87ee-558ce7672a64
   :name: 神鍋高原スキー場
   :pref: 兵庫県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: d4f430e4-87bf-408a-a640-f895c250e5d0
   :name: スカイバレイスキー場
   :pref: 兵庫県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c0199d6d-891d-4af4-864f-7f1ac79f2465
   :name: 但馬牧場公園スキー場
   :pref: 兵庫県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e10e6f08-3b46-4737-8ac3-2a7e40e8d329
   :name: ちくさ高原スキー場
   :pref: 兵庫県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: fcac2d58-0042-454f-a22c-8bb34d4130b3
   :name: ハイパーボウル東鉢
   :pref: 兵庫県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 931ec21c-1873-4f27-8972-051176b3d9b5
   :name: ハチ北スキー場|ハチ北高原スキー場
   :pref: 兵庫県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 014673b1-f0b0-4add-b47d-4780a47427b5
   :name: ハチ高原スキー場
   :pref: 兵庫県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6e9beed5-772b-4866-a13c-8a40e5f0a231
   :name: 氷ノ山国際スキー場
   :pref: 兵庫県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 77d6c9ed-8461-4d78-8567-865930bde581
   :name: ばんしゅう戸倉スノーパーク
   :pref: 兵庫県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 6a875474-e4e0-4903-8a44-e250e0b92213
   :name: ミカタスノーパーク
   :pref: 兵庫県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: cbecbbc8-71b6-4c21-845d-a503bf124f71
   :name: 六甲山スノーパーク
   :pref: 兵庫県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f34ff946-1d8f-4e45-81a9-e24112323f8b
   :name: 若杉高原おおやスキー場
   :pref: 兵庫県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f4da832c-123d-4bee-bd61-eb589a169ca2
   :name: 洞川スキー場
   :pref: 奈良県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4fc97d4e-23b4-4155-9c1b-d1b0d99e7c9c
   :name: 和佐又山スキー場
   :pref: 奈良県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: fe23cd49-72e6-4005-a184-789f7da9bc5b
   :name: 明神平スキー場
   :pref: 奈良県
-  :area: 近畿
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 743530ce-6e3d-4a71-8b4b-d185b78922be
   :name: 奥大山スキー場
   :pref: 鳥取県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9d882760-2035-4d4f-908b-9e35dce8d157
   :name: 鏡ヶ成スキー場
   :pref: 鳥取県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 55b48d7c-a71e-4dc9-8813-ca1ddb4f717d
   :name: 大山スキー場
   :pref: 鳥取県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b30efa56-e286-4562-9509-ee87ee547e39
   :name: 花見山スキー場
   :pref: 鳥取県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: df9bae17-ef21-4e9d-9ca2-64b115acdfca
   :name: 桝水高原スキー場
   :pref: 鳥取県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 05f2bf18-55fe-479b-abf3-2e3eb9b9b287
   :name: わかさ氷ノ山スキー場
   :pref: 鳥取県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c2c43393-c551-4c9b-8f6e-30de9d0b6186
   :name: 安蔵公園スキー場
   :pref: 鳥取県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 1c8373a1-ba01-474b-80cf-9aa13357a4c1
   :name: アサヒテングストン
   :pref: 島根県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 8ecc601e-6920-47f2-96c4-29686e27e560
   :name: 琴引フォレストパーク
   :pref: 島根県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5e969176-698c-4cd2-9120-0b84d45f61ec
   :name: さんべ温泉スキー場
   :pref: 島根県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0f733732-1c9a-4561-b95e-5ccbd55b4eee
   :name: 三井野原スキー場
   :pref: 島根県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 000644ed-c720-4ef7-a9e4-a187b6be4842
   :name: 瑞穂ハイランド
   :pref: 島根県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: dea75388-0cd7-401d-acd8-91aa85585d9b
   :name: いぶきの里スキー場
   :pref: 岡山県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 52c6302a-7e4e-4c85-a006-c482b341eaf3
   :name: 大茅スキー場
   :pref: 岡山県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 64efe56a-7414-481c-bbbd-b36fef3a2e02
   :name: 恩原高原スキー場
   :pref: 岡山県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9d78796a-5d16-42fc-a1fa-8d658960519e
   :name: ひるぜんベアバレースキー場
   :pref: 岡山県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5466fe02-728b-47fc-a70d-d8f6e84fdd73
   :name: 千屋スキー場
   :pref: 岡山県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 4ac797fc-b8a1-4fdd-9826-0fc5a8d6937b
   :name: 上蒜山スキー場
   :pref: 岡山県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 5e529121-828c-4f2b-b16b-22204723175a
   :name: 神郷第一スキー場
   :pref: 岡山県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 79a6da0f-14a8-4538-af8d-38b22e5136fe
   :name: 吾妻山スキー場
   :pref: 広島県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f0a803ae-119b-48b4-97fe-a3a66220f70e
   :name: 恐羅漢スキー場
   :pref: 広島県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0125a0e6-75fd-4caa-ab79-283ccd722445
   :name: スキーパーク寒曳
   :pref: 広島県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0090a9df-b3db-4692-b841-7891cc475708
   :name: スノーリゾート猫山
   :pref: 広島県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b32e03a7-b282-46f3-afc8-55871f2f20f1
   :name: 道後山高原スキー場
   :pref: 広島県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: dd7e5557-1ed1-4e3b-a62f-41dfe471ea15
   :name: 芸北高原大佐スキー場
   :pref: 広島県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 7eeae90f-54c5-4a27-9ff9-daf1bdcb0926
   :name: 芸北国際スキー場
   :pref: 広島県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: fcb1dda5-62e6-4c1e-9976-a8ba99a4ed0d
   :name: 県立もみのき森林公園
   :pref: 広島県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 88bfe1f7-5e1b-42f7-9d3e-686699c7ed42
   :name: 広島県民の森|ひろしま県民の森スキー場
   :pref: 広島県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9b1efacf-3fa3-47b5-98a2-062108597d33
   :name: めがひらスキー場
   :pref: 広島県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: e8c313ef-2968-4432-bd8b-d9930e908136
   :name: やわたハイランド191リゾート
   :pref: 広島県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 88b2e00f-f70b-43c5-893f-1f75458232e0
   :name: ユートピアサイオト
   :pref: 広島県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 3b3b9a16-f0ee-45e7-bac2-34b44a072c69
   :name: りんご今日話国スキー場
   :pref: 広島県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 37dd0fe6-9328-4813-a8d7-580abac436cf
   :name: 十種ヶ峰ウッドパーク|十種ヶ峰スキー場
   :pref: 山口県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c3c04390-a994-4ec0-a8e9-c51dbca478e2
   :name: 船平山スキー場
   :pref: 山口県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 69b5f951-4e18-4b3d-a5dc-9bd5cff6a85e
   :name: 羅漢山ハイランド
   :pref: 山口県
-  :area: 中国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0301e000-8f2e-4543-8ca1-fbe4ab3a81c0
   :name: 石鎚スキー場
   :pref: 愛媛県
-  :area: 四国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 1fa19b9a-6c4a-42ee-b6d3-770246e54c8e
   :name: 久万スキーランド
   :pref: 愛媛県
-  :area: 四国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 9ad5f61b-4c2f-4bc5-915a-8a348f783711
   :name: ソルファオダスキーゲレンデ
   :pref: 愛媛県
-  :area: 四国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: c41d38f5-64b9-4510-bbab-9fc12eff6140
   :name: スノーパーク雲辺寺
   :pref: 香川県
-  :area: 四国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 88da5ef6-dec5-4377-acab-51e023ec2456
   :name: 井川スキー場腕山
   :pref: 徳島県
-  :area: 四国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 0602cc7c-cc23-4673-a7b9-2deb38facaae
   :name: 天狗高原スキー場
   :pref: 高知県
-  :area: 四国
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: b6c548e5-86fb-4b78-9613-3581624d493a
   :name: 阿蘇山人工スキー場
   :pref: 佐賀県
-  :area: 九州
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: 89ad0c66-87ba-4704-a439-7b9651f2b799
   :name: 九重森林公園スキー場
   :pref: 大分県
-  :area: 九州
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
 -
-  :uuid: f3b33456-e3d1-484b-915b-d0a33e6216dd
   :name: 五ヶ瀬ハイランドスキー場
   :pref: 宮崎県
-  :area: 九州
   :postal_code:
   :address:
-  :top:
-  :bottom:
-  :max_slope:
-  :max_angle:
