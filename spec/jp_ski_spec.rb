@@ -6,6 +6,6 @@ describe JpSki do
   end
 
   describe '.list_ski_resort' do
-    it { expect(JpSki.list_ski_resort.count).to eq 558 }
+    it { expect(JpSki.list_ski_resort.count).to eq 548 }
   end
 end
