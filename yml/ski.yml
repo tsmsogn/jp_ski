@@ -464,15 +464,15 @@
   :postal_code:
   :address:
 -
-  :name: 礼文島富士見ヶ丘スキー場
+  :name: 富士見ヶ丘スキー場
   :pref: 北海道
   :postal_code: '0970003'
   :address: 北海道稚内市こまどり4丁目
 -
-  :name: 礼文島久種湖畔スキー場
+  :name: 久種湖畔スキー場
   :pref: 北海道
-  :postal_code:
-  :address:
+  :postal_code: '0971111'
+  :address: 北海道礼文郡礼文町船泊村大備
 -
   :name: 網走レークビュースキー場
   :pref: 北海道
@@ -516,8 +516,8 @@
 -
   :name: 清里町営緑スキー場
   :pref: 北海道
-  :postal_code:
-  :address:
+  :postal_code: '0994525'
+  :address: 北海道斜里郡清里町緑町51-1
 -
   :name: 佐呂間町営スキー場
   :pref: 北海道
@@ -546,8 +546,8 @@
 -
   :name: 宮の森スキー場
   :pref: 北海道
-  :postal_code:
-  :address:
+  :postal_code: '0981501'
+  :address: 北海道紋別郡西興部村字西興部103
 -
   :name: 紋別市営大山スキー場
   :pref: 北海道
@@ -576,28 +576,28 @@
 -
   :name: ぬかびら源泉郷スキー場
   :pref: 北海道
-  :postal_code:
-  :address:
+  :postal_code: '0801403'
+  :address: 北海道河東郡上士幌町字ぬかびら源泉郷75
 -
   :name: メムロスキー場
   :pref: 北海道
-  :postal_code:
-  :address:
+  :postal_code: '0820086'
+  :address: 北海道河西郡芽室町中美生2線42
 -
   :name: 阿寒ロイヤルバレイスキー場
   :pref: 北海道
-  :postal_code:
-  :address:
+  :postal_code: '0850000'
+  :address: 北海道釧路市阿寒町富士見町
 -
   :name: 国設阿寒湖畔スキー場
   :pref: 北海道
-  :postal_code:
-  :address:
+  :postal_code: '0850000'
+  :address: 北海道釧路市阿寒町シュリコマベツ4−4
 -
-  :name: 町営金山スキー場
+  :name: 標津町営金山スキー場
   :pref: 北海道
-  :postal_code:
-  :address:
+  :postal_code: '0861731'
+  :address: 北海道標津郡標津町字古多糠
 -
   :name: 鯵ヶ沢大高山スキー場
   :pref: 青森県
